@@ -1,0 +1,1116 @@
+Rating,Mainz,7.62,Freiburg,5.96
+TotalShots,Mainz,9,Freiburg,17
+Possession,Mainz,29.7,Freiburg,70.3
+PassSuccess,Mainz,78,Freiburg,88
+DribblesWon,Mainz,8,Freiburg,7
+AerialsWon,Mainz,11,Freiburg,15
+TackleSuccessful,Mainz,17,Freiburg,19
+CornersTotal,Mainz,2,Freiburg,7
+Dispossessed,Mainz,10,Freiburg,12
+ShotsOnPost,Mainz,0,Freiburg,0
+ShotsOnTarget,Mainz,5,Freiburg,5
+ShotsOffTarget,Mainz,2,Freiburg,7
+ShotsBlocked,Mainz,2,Freiburg,5
+Touches,Mainz,444,Freiburg,818
+PassesTotal,Mainz,280,Freiburg,652
+PassesAccurate,Mainz,217,Freiburg,577
+KeyPasses,Mainz,6,Freiburg,10
+DribblesAttempted,Mainz,17,Freiburg,12
+DribblesPast,Mainz,7,Freiburg,8
+DribbleSuccess,Mainz,47,Freiburg,58
+OffensiveAerials,Mainz,15,Freiburg,11
+DefensiveAerials,Mainz,11,Freiburg,15
+AerialsWon,Mainz,42,Freiburg,58
+TacklesAttempted,Mainz,24,Freiburg,27
+TacklesUnsuccessful,Mainz,7,Freiburg,8
+TackleSuccess,Mainz,71,Freiburg,70
+Clearances,Mainz,19,Freiburg,9
+Interceptions,Mainz,13,Freiburg,10
+Errors,Mainz,0,Freiburg,1
+Fouls,Mainz,18,Freiburg,8
+Offsides,Mainz,3,Freiburg,0
+Rating,Wolfsburg,7.11,Hannover,6.42
+TotalShots,Wolfsburg,12,Hannover,11
+Possession,Wolfsburg,61.4,Hannover,38.6
+PassSuccess,Wolfsburg,83,Hannover,75
+DribblesWon,Wolfsburg,13,Hannover,9
+AerialsWon,Wolfsburg,22,Hannover,10
+TackleSuccessful,Wolfsburg,22,Hannover,19
+CornersTotal,Wolfsburg,9,Hannover,2
+Dispossessed,Wolfsburg,10,Hannover,11
+ShotsOnPost,Wolfsburg,0,Hannover,0
+ShotsOnTarget,Wolfsburg,5,Hannover,4
+ShotsOffTarget,Wolfsburg,5,Hannover,7
+ShotsBlocked,Wolfsburg,2,Hannover,0
+Touches,Wolfsburg,697,Hannover,523
+PassesTotal,Wolfsburg,498,Hannover,317
+PassesAccurate,Wolfsburg,413,Hannover,239
+KeyPasses,Wolfsburg,9,Hannover,8
+DribblesAttempted,Wolfsburg,22,Hannover,20
+DribblesPast,Wolfsburg,9,Hannover,13
+DribbleSuccess,Wolfsburg,59,Hannover,45
+OffensiveAerials,Wolfsburg,12,Hannover,20
+DefensiveAerials,Wolfsburg,20,Hannover,12
+AerialsWon,Wolfsburg,69,Hannover,31
+TacklesAttempted,Wolfsburg,31,Hannover,32
+TacklesUnsuccessful,Wolfsburg,9,Hannover,13
+TackleSuccess,Wolfsburg,71,Hannover,59
+Clearances,Wolfsburg,14,Hannover,27
+Interceptions,Wolfsburg,11,Hannover,13
+Errors,Wolfsburg,1,Hannover,0
+Fouls,Wolfsburg,10,Hannover,11
+Offsides,Wolfsburg,0,Hannover,1
+Rating,Hertha Berlin,6.74,Fortuna Duesseldorf,6.81
+TotalShots,Hertha Berlin,13,Fortuna Duesseldorf,15
+Possession,Hertha Berlin,59.6,Fortuna Duesseldorf,40.4
+PassSuccess,Hertha Berlin,87,Fortuna Duesseldorf,79
+DribblesWon,Hertha Berlin,16,Fortuna Duesseldorf,6
+AerialsWon,Hertha Berlin,22,Fortuna Duesseldorf,20
+TackleSuccessful,Hertha Berlin,18,Fortuna Duesseldorf,22
+CornersTotal,Hertha Berlin,2,Fortuna Duesseldorf,6
+Dispossessed,Hertha Berlin,13,Fortuna Duesseldorf,8
+ShotsOnPost,Hertha Berlin,0,Fortuna Duesseldorf,0
+ShotsOnTarget,Hertha Berlin,3,Fortuna Duesseldorf,7
+ShotsOffTarget,Hertha Berlin,8,Fortuna Duesseldorf,6
+ShotsBlocked,Hertha Berlin,2,Fortuna Duesseldorf,2
+Touches,Hertha Berlin,736,Fortuna Duesseldorf,548
+PassesTotal,Hertha Berlin,538,Fortuna Duesseldorf,362
+PassesAccurate,Hertha Berlin,467,Fortuna Duesseldorf,286
+KeyPasses,Hertha Berlin,11,Fortuna Duesseldorf,13
+DribblesAttempted,Hertha Berlin,25,Fortuna Duesseldorf,16
+DribblesPast,Hertha Berlin,6,Fortuna Duesseldorf,16
+DribbleSuccess,Hertha Berlin,64,Fortuna Duesseldorf,38
+OffensiveAerials,Hertha Berlin,19,Fortuna Duesseldorf,23
+DefensiveAerials,Hertha Berlin,23,Fortuna Duesseldorf,19
+AerialsWon,Hertha Berlin,52,Fortuna Duesseldorf,48
+TacklesAttempted,Hertha Berlin,24,Fortuna Duesseldorf,38
+TacklesUnsuccessful,Hertha Berlin,6,Fortuna Duesseldorf,16
+TackleSuccess,Hertha Berlin,75,Fortuna Duesseldorf,58
+Clearances,Hertha Berlin,16,Fortuna Duesseldorf,15
+Interceptions,Hertha Berlin,8,Fortuna Duesseldorf,10
+Errors,Hertha Berlin,0,Fortuna Duesseldorf,0
+Fouls,Hertha Berlin,20,Fortuna Duesseldorf,11
+Offsides,Hertha Berlin,2,Fortuna Duesseldorf,3
+Rating,Schalke,6.43,Eintracht Frankfurt,6.93
+TotalShots,Schalke,6,Eintracht Frankfurt,16
+Possession,Schalke,36.6,Eintracht Frankfurt,63.4
+PassSuccess,Schalke,60,Eintracht Frankfurt,76
+DribblesWon,Schalke,10,Eintracht Frankfurt,10
+AerialsWon,Schalke,17,Eintracht Frankfurt,18
+TackleSuccessful,Schalke,20,Eintracht Frankfurt,22
+CornersTotal,Schalke,3,Eintracht Frankfurt,6
+Dispossessed,Schalke,13,Eintracht Frankfurt,15
+ShotsOnPost,Schalke,0,Eintracht Frankfurt,0
+ShotsOnTarget,Schalke,4,Eintracht Frankfurt,5
+ShotsOffTarget,Schalke,2,Eintracht Frankfurt,6
+ShotsBlocked,Schalke,0,Eintracht Frankfurt,5
+Touches,Schalke,479,Eintracht Frankfurt,694
+PassesTotal,Schalke,274,Eintracht Frankfurt,480
+PassesAccurate,Schalke,164,Eintracht Frankfurt,367
+KeyPasses,Schalke,5,Eintracht Frankfurt,10
+DribblesAttempted,Schalke,19,Eintracht Frankfurt,15
+DribblesPast,Schalke,10,Eintracht Frankfurt,10
+DribbleSuccess,Schalke,53,Eintracht Frankfurt,67
+OffensiveAerials,Schalke,25,Eintracht Frankfurt,10
+DefensiveAerials,Schalke,10,Eintracht Frankfurt,25
+AerialsWon,Schalke,49,Eintracht Frankfurt,51
+TacklesAttempted,Schalke,30,Eintracht Frankfurt,32
+TacklesUnsuccessful,Schalke,10,Eintracht Frankfurt,10
+TackleSuccess,Schalke,67,Eintracht Frankfurt,69
+Clearances,Schalke,19,Eintracht Frankfurt,12
+Interceptions,Schalke,12,Eintracht Frankfurt,9
+Errors,Schalke,0,Eintracht Frankfurt,0
+Fouls,Schalke,18,Eintracht Frankfurt,8
+Offsides,Schalke,3,Eintracht Frankfurt,2
+Rating,Leverkusen,6.37,RasenBallsport Leipzig,6.95
+TotalShots,Leverkusen,10,RasenBallsport Leipzig,8
+Possession,Leverkusen,63,RasenBallsport Leipzig,37
+PassSuccess,Leverkusen,83,RasenBallsport Leipzig,69
+DribblesWon,Leverkusen,12,RasenBallsport Leipzig,12
+AerialsWon,Leverkusen,15,RasenBallsport Leipzig,16
+TackleSuccessful,Leverkusen,16,RasenBallsport Leipzig,20
+CornersTotal,Leverkusen,6,RasenBallsport Leipzig,2
+Dispossessed,Leverkusen,11,RasenBallsport Leipzig,12
+ShotsOnPost,Leverkusen,0,RasenBallsport Leipzig,0
+ShotsOnTarget,Leverkusen,4,RasenBallsport Leipzig,4
+ShotsOffTarget,Leverkusen,6,RasenBallsport Leipzig,3
+ShotsBlocked,Leverkusen,0,RasenBallsport Leipzig,1
+Touches,Leverkusen,803,RasenBallsport Leipzig,561
+PassesTotal,Leverkusen,594,RasenBallsport Leipzig,351
+PassesAccurate,Leverkusen,492,RasenBallsport Leipzig,243
+KeyPasses,Leverkusen,6,RasenBallsport Leipzig,5
+DribblesAttempted,Leverkusen,21,RasenBallsport Leipzig,16
+DribblesPast,Leverkusen,12,RasenBallsport Leipzig,12
+DribbleSuccess,Leverkusen,57,RasenBallsport Leipzig,75
+OffensiveAerials,Leverkusen,14,RasenBallsport Leipzig,17
+DefensiveAerials,Leverkusen,17,RasenBallsport Leipzig,14
+AerialsWon,Leverkusen,48,RasenBallsport Leipzig,52
+TacklesAttempted,Leverkusen,28,RasenBallsport Leipzig,32
+TacklesUnsuccessful,Leverkusen,12,RasenBallsport Leipzig,12
+TackleSuccess,Leverkusen,57,RasenBallsport Leipzig,63
+Clearances,Leverkusen,20,RasenBallsport Leipzig,26
+Interceptions,Leverkusen,10,RasenBallsport Leipzig,15
+Errors,Leverkusen,0,RasenBallsport Leipzig,0
+Fouls,Leverkusen,12,RasenBallsport Leipzig,13
+Offsides,Leverkusen,3,RasenBallsport Leipzig,3
+Rating,Stuttgart,6.69,Nuernberg,6.74
+TotalShots,Stuttgart,13,Nuernberg,20
+Possession,Stuttgart,56.4,Nuernberg,43.6
+PassSuccess,Stuttgart,80,Nuernberg,76
+DribblesWon,Stuttgart,7,Nuernberg,11
+AerialsWon,Stuttgart,27,Nuernberg,23
+TackleSuccessful,Stuttgart,12,Nuernberg,15
+CornersTotal,Stuttgart,12,Nuernberg,5
+Dispossessed,Stuttgart,8,Nuernberg,6
+ShotsOnPost,Stuttgart,1,Nuernberg,0
+ShotsOnTarget,Stuttgart,4,Nuernberg,6
+ShotsOffTarget,Stuttgart,4,Nuernberg,9
+ShotsBlocked,Stuttgart,5,Nuernberg,5
+Touches,Stuttgart,635,Nuernberg,555
+PassesTotal,Stuttgart,430,Nuernberg,351
+PassesAccurate,Stuttgart,346,Nuernberg,266
+KeyPasses,Stuttgart,11,Nuernberg,11
+DribblesAttempted,Stuttgart,14,Nuernberg,17
+DribblesPast,Stuttgart,11,Nuernberg,7
+DribbleSuccess,Stuttgart,50,Nuernberg,65
+OffensiveAerials,Stuttgart,30,Nuernberg,20
+DefensiveAerials,Stuttgart,20,Nuernberg,30
+AerialsWon,Stuttgart,54,Nuernberg,46
+TacklesAttempted,Stuttgart,23,Nuernberg,22
+TacklesUnsuccessful,Stuttgart,11,Nuernberg,7
+TackleSuccess,Stuttgart,52,Nuernberg,68
+Clearances,Stuttgart,12,Nuernberg,36
+Interceptions,Stuttgart,12,Nuernberg,10
+Errors,Stuttgart,1,Nuernberg,0
+Fouls,Stuttgart,10,Nuernberg,11
+Offsides,Stuttgart,2,Nuernberg,4
+Rating,Bayern,7.59,Borussia Dortmund,5.86
+TotalShots,Bayern,22,Borussia Dortmund,4
+Possession,Bayern,58.8,Borussia Dortmund,41.2
+PassSuccess,Bayern,88,Borussia Dortmund,82
+DribblesWon,Bayern,11,Borussia Dortmund,7
+AerialsWon,Bayern,12,Borussia Dortmund,8
+TackleSuccessful,Bayern,16,Borussia Dortmund,19
+CornersTotal,Bayern,11,Borussia Dortmund,1
+Dispossessed,Bayern,14,Borussia Dortmund,7
+ShotsOnPost,Bayern,0,Borussia Dortmund,1
+ShotsOnTarget,Bayern,10,Borussia Dortmund,1
+ShotsOffTarget,Bayern,10,Borussia Dortmund,1
+ShotsBlocked,Bayern,2,Borussia Dortmund,2
+Touches,Bayern,763,Borussia Dortmund,578
+PassesTotal,Bayern,580,Borussia Dortmund,412
+PassesAccurate,Bayern,510,Borussia Dortmund,339
+KeyPasses,Bayern,17,Borussia Dortmund,3
+DribblesAttempted,Bayern,16,Borussia Dortmund,16
+DribblesPast,Bayern,7,Borussia Dortmund,11
+DribbleSuccess,Bayern,69,Borussia Dortmund,44
+OffensiveAerials,Bayern,10,Borussia Dortmund,10
+DefensiveAerials,Bayern,10,Borussia Dortmund,10
+AerialsWon,Bayern,60,Borussia Dortmund,40
+TacklesAttempted,Bayern,23,Borussia Dortmund,30
+TacklesUnsuccessful,Bayern,7,Borussia Dortmund,11
+TackleSuccess,Bayern,70,Borussia Dortmund,63
+Clearances,Bayern,6,Borussia Dortmund,21
+Interceptions,Bayern,7,Borussia Dortmund,5
+Errors,Bayern,0,Borussia Dortmund,1
+Fouls,Bayern,10,Borussia Dortmund,12
+Offsides,Bayern,1,Borussia Dortmund,2
+Rating,Augsburg,6.12,Hoffenheim,7.53
+TotalShots,Augsburg,8,Hoffenheim,19
+Possession,Augsburg,41.8,Hoffenheim,58.2
+PassSuccess,Augsburg,78,Hoffenheim,87
+DribblesWon,Augsburg,5,Hoffenheim,10
+AerialsWon,Augsburg,15,Hoffenheim,11
+TackleSuccessful,Augsburg,19,Hoffenheim,17
+CornersTotal,Augsburg,4,Hoffenheim,3
+Dispossessed,Augsburg,9,Hoffenheim,14
+ShotsOnPost,Augsburg,0,Hoffenheim,0
+ShotsOnTarget,Augsburg,0,Hoffenheim,9
+ShotsOffTarget,Augsburg,6,Hoffenheim,4
+ShotsBlocked,Augsburg,2,Hoffenheim,6
+Touches,Augsburg,570,Hoffenheim,757
+PassesTotal,Augsburg,379,Hoffenheim,547
+PassesAccurate,Augsburg,297,Hoffenheim,474
+KeyPasses,Augsburg,7,Hoffenheim,17
+DribblesAttempted,Augsburg,13,Hoffenheim,15
+DribblesPast,Augsburg,10,Hoffenheim,5
+DribbleSuccess,Augsburg,38,Hoffenheim,67
+OffensiveAerials,Augsburg,18,Hoffenheim,8
+DefensiveAerials,Augsburg,8,Hoffenheim,18
+AerialsWon,Augsburg,58,Hoffenheim,42
+TacklesAttempted,Augsburg,29,Hoffenheim,22
+TacklesUnsuccessful,Augsburg,10,Hoffenheim,5
+TackleSuccess,Augsburg,66,Hoffenheim,77
+Clearances,Augsburg,19,Hoffenheim,19
+Interceptions,Augsburg,13,Hoffenheim,13
+Errors,Augsburg,1,Hoffenheim,0
+Fouls,Augsburg,11,Hoffenheim,10
+Offsides,Augsburg,3,Hoffenheim,3
+Rating,Borussia M.Gladbach,6.77,Werder Bremen,6.66
+TotalShots,Borussia M.Gladbach,15,Werder Bremen,12
+Possession,Borussia M.Gladbach,52.3,Werder Bremen,47.7
+PassSuccess,Borussia M.Gladbach,84,Werder Bremen,79
+DribblesWon,Borussia M.Gladbach,10,Werder Bremen,7
+AerialsWon,Borussia M.Gladbach,14,Werder Bremen,24
+TackleSuccessful,Borussia M.Gladbach,16,Werder Bremen,13
+CornersTotal,Borussia M.Gladbach,7,Werder Bremen,1
+Dispossessed,Borussia M.Gladbach,9,Werder Bremen,14
+ShotsOnPost,Borussia M.Gladbach,1,Werder Bremen,0
+ShotsOnTarget,Borussia M.Gladbach,3,Werder Bremen,6
+ShotsOffTarget,Borussia M.Gladbach,12,Werder Bremen,3
+ShotsBlocked,Borussia M.Gladbach,0,Werder Bremen,3
+Touches,Borussia M.Gladbach,725,Werder Bremen,669
+PassesTotal,Borussia M.Gladbach,535,Werder Bremen,501
+PassesAccurate,Borussia M.Gladbach,448,Werder Bremen,398
+KeyPasses,Borussia M.Gladbach,12,Werder Bremen,11
+DribblesAttempted,Borussia M.Gladbach,14,Werder Bremen,9
+DribblesPast,Borussia M.Gladbach,7,Werder Bremen,10
+DribbleSuccess,Borussia M.Gladbach,71,Werder Bremen,78
+OffensiveAerials,Borussia M.Gladbach,28,Werder Bremen,10
+DefensiveAerials,Borussia M.Gladbach,10,Werder Bremen,28
+AerialsWon,Borussia M.Gladbach,37,Werder Bremen,63
+TacklesAttempted,Borussia M.Gladbach,23,Werder Bremen,23
+TacklesUnsuccessful,Borussia M.Gladbach,7,Werder Bremen,10
+TackleSuccess,Borussia M.Gladbach,70,Werder Bremen,57
+Clearances,Borussia M.Gladbach,7,Werder Bremen,26
+Interceptions,Borussia M.Gladbach,18,Werder Bremen,19
+Errors,Borussia M.Gladbach,0,Werder Bremen,1
+Fouls,Borussia M.Gladbach,7,Werder Bremen,6
+Offsides,Borussia M.Gladbach,2,Werder Bremen,1
+Rating,Nuernberg,6.92,Schalke,6.83
+TotalShots,Nuernberg,17,Schalke,16
+Possession,Nuernberg,52.8,Schalke,47.2
+PassSuccess,Nuernberg,79,Schalke,80
+DribblesWon,Nuernberg,10,Schalke,9
+AerialsWon,Nuernberg,26,Schalke,11
+TackleSuccessful,Nuernberg,11,Schalke,13
+CornersTotal,Nuernberg,11,Schalke,9
+Dispossessed,Nuernberg,5,Schalke,3
+ShotsOnPost,Nuernberg,0,Schalke,0
+ShotsOnTarget,Nuernberg,6,Schalke,2
+ShotsOffTarget,Nuernberg,3,Schalke,9
+ShotsBlocked,Nuernberg,8,Schalke,5
+Touches,Nuernberg,623,Schalke,602
+PassesTotal,Nuernberg,424,Schalke,373
+PassesAccurate,Nuernberg,334,Schalke,299
+KeyPasses,Nuernberg,12,Schalke,10
+DribblesAttempted,Nuernberg,18,Schalke,17
+DribblesPast,Nuernberg,9,Schalke,10
+DribbleSuccess,Nuernberg,56,Schalke,53
+OffensiveAerials,Nuernberg,17,Schalke,20
+DefensiveAerials,Nuernberg,20,Schalke,17
+AerialsWon,Nuernberg,70,Schalke,30
+TacklesAttempted,Nuernberg,20,Schalke,23
+TacklesUnsuccessful,Nuernberg,9,Schalke,10
+TackleSuccess,Nuernberg,55,Schalke,57
+Clearances,Nuernberg,30,Schalke,29
+Interceptions,Nuernberg,13,Schalke,15
+Errors,Nuernberg,0,Schalke,0
+Fouls,Nuernberg,12,Schalke,14
+Offsides,Nuernberg,2,Schalke,4
+Rating,Hannover,6.71,Borussia M.Gladbach,7.07
+TotalShots,Hannover,12,Borussia M.Gladbach,19
+Possession,Hannover,42.4,Borussia M.Gladbach,57.6
+PassSuccess,Hannover,78,Borussia M.Gladbach,82
+DribblesWon,Hannover,8,Borussia M.Gladbach,15
+AerialsWon,Hannover,16,Borussia M.Gladbach,18
+TackleSuccessful,Hannover,24,Borussia M.Gladbach,16
+CornersTotal,Hannover,3,Borussia M.Gladbach,12
+Dispossessed,Hannover,11,Borussia M.Gladbach,14
+ShotsOnPost,Hannover,0,Borussia M.Gladbach,0
+ShotsOnTarget,Hannover,5,Borussia M.Gladbach,9
+ShotsOffTarget,Hannover,4,Borussia M.Gladbach,6
+ShotsBlocked,Hannover,3,Borussia M.Gladbach,4
+Touches,Hannover,628,Borussia M.Gladbach,763
+PassesTotal,Hannover,420,Borussia M.Gladbach,565
+PassesAccurate,Hannover,329,Borussia M.Gladbach,466
+KeyPasses,Hannover,10,Borussia M.Gladbach,15
+DribblesAttempted,Hannover,13,Borussia M.Gladbach,25
+DribblesPast,Hannover,15,Borussia M.Gladbach,8
+DribbleSuccess,Hannover,62,Borussia M.Gladbach,60
+OffensiveAerials,Hannover,13,Borussia M.Gladbach,21
+DefensiveAerials,Hannover,21,Borussia M.Gladbach,13
+AerialsWon,Hannover,47,Borussia M.Gladbach,53
+TacklesAttempted,Hannover,39,Borussia M.Gladbach,24
+TacklesUnsuccessful,Hannover,15,Borussia M.Gladbach,8
+TackleSuccess,Hannover,62,Borussia M.Gladbach,67
+Clearances,Hannover,23,Borussia M.Gladbach,12
+Interceptions,Hannover,19,Borussia M.Gladbach,7
+Errors,Hannover,1,Borussia M.Gladbach,0
+Fouls,Hannover,10,Borussia M.Gladbach,9
+Offsides,Hannover,0,Borussia M.Gladbach,0
+Rating,Werder Bremen,6.93,Freiburg,6.69
+TotalShots,Werder Bremen,16,Freiburg,9
+Possession,Werder Bremen,62.3,Freiburg,37.7
+PassSuccess,Werder Bremen,81,Freiburg,69
+DribblesWon,Werder Bremen,6,Freiburg,14
+AerialsWon,Werder Bremen,27,Freiburg,20
+TackleSuccessful,Werder Bremen,11,Freiburg,10
+CornersTotal,Werder Bremen,7,Freiburg,3
+Dispossessed,Werder Bremen,8,Freiburg,5
+ShotsOnPost,Werder Bremen,0,Freiburg,0
+ShotsOnTarget,Werder Bremen,7,Freiburg,5
+ShotsOffTarget,Werder Bremen,8,Freiburg,3
+ShotsBlocked,Werder Bremen,1,Freiburg,1
+Touches,Werder Bremen,738,Freiburg,534
+PassesTotal,Werder Bremen,571,Freiburg,350
+PassesAccurate,Werder Bremen,461,Freiburg,241
+KeyPasses,Werder Bremen,12,Freiburg,5
+DribblesAttempted,Werder Bremen,8,Freiburg,20
+DribblesPast,Werder Bremen,14,Freiburg,6
+DribbleSuccess,Werder Bremen,75,Freiburg,70
+OffensiveAerials,Werder Bremen,22,Freiburg,25
+DefensiveAerials,Werder Bremen,25,Freiburg,22
+AerialsWon,Werder Bremen,57,Freiburg,43
+TacklesAttempted,Werder Bremen,25,Freiburg,16
+TacklesUnsuccessful,Werder Bremen,14,Freiburg,6
+TackleSuccess,Werder Bremen,44,Freiburg,63
+Clearances,Werder Bremen,11,Freiburg,29
+Interceptions,Werder Bremen,13,Freiburg,14
+Errors,Werder Bremen,0,Freiburg,0
+Fouls,Werder Bremen,19,Freiburg,7
+Offsides,Werder Bremen,0,Freiburg,2
+Rating,RasenBallsport Leipzig,7.27,Wolfsburg,6.44
+TotalShots,RasenBallsport Leipzig,21,Wolfsburg,6
+Possession,RasenBallsport Leipzig,52.2,Wolfsburg,47.8
+PassSuccess,RasenBallsport Leipzig,76,Wolfsburg,69
+DribblesWon,RasenBallsport Leipzig,9,Wolfsburg,13
+AerialsWon,RasenBallsport Leipzig,22,Wolfsburg,26
+TackleSuccessful,RasenBallsport Leipzig,13,Wolfsburg,13
+CornersTotal,RasenBallsport Leipzig,9,Wolfsburg,3
+Dispossessed,RasenBallsport Leipzig,7,Wolfsburg,8
+ShotsOnPost,RasenBallsport Leipzig,1,Wolfsburg,0
+ShotsOnTarget,RasenBallsport Leipzig,10,Wolfsburg,2
+ShotsOffTarget,RasenBallsport Leipzig,8,Wolfsburg,1
+ShotsBlocked,RasenBallsport Leipzig,3,Wolfsburg,3
+Touches,RasenBallsport Leipzig,669,Wolfsburg,618
+PassesTotal,RasenBallsport Leipzig,434,Wolfsburg,406
+PassesAccurate,RasenBallsport Leipzig,329,Wolfsburg,281
+KeyPasses,RasenBallsport Leipzig,19,Wolfsburg,5
+DribblesAttempted,RasenBallsport Leipzig,15,Wolfsburg,18
+DribblesPast,RasenBallsport Leipzig,13,Wolfsburg,9
+DribbleSuccess,RasenBallsport Leipzig,60,Wolfsburg,72
+OffensiveAerials,RasenBallsport Leipzig,21,Wolfsburg,27
+DefensiveAerials,RasenBallsport Leipzig,27,Wolfsburg,21
+AerialsWon,RasenBallsport Leipzig,46,Wolfsburg,54
+TacklesAttempted,RasenBallsport Leipzig,26,Wolfsburg,22
+TacklesUnsuccessful,RasenBallsport Leipzig,13,Wolfsburg,9
+TackleSuccess,RasenBallsport Leipzig,50,Wolfsburg,59
+Clearances,RasenBallsport Leipzig,29,Wolfsburg,21
+Interceptions,RasenBallsport Leipzig,14,Wolfsburg,9
+Errors,RasenBallsport Leipzig,0,Wolfsburg,0
+Fouls,RasenBallsport Leipzig,19,Wolfsburg,12
+Offsides,RasenBallsport Leipzig,5,Wolfsburg,5
+Rating,Stuttgart,6.47,Leverkusen,7.06
+TotalShots,Stuttgart,12,Leverkusen,17
+Possession,Stuttgart,31.6,Leverkusen,68.4
+PassSuccess,Stuttgart,67,Leverkusen,84
+DribblesWon,Stuttgart,5,Leverkusen,8
+AerialsWon,Stuttgart,26,Leverkusen,25
+TackleSuccessful,Stuttgart,24,Leverkusen,9
+CornersTotal,Stuttgart,7,Leverkusen,6
+Dispossessed,Stuttgart,6,Leverkusen,19
+ShotsOnPost,Stuttgart,0,Leverkusen,0
+ShotsOnTarget,Stuttgart,5,Leverkusen,4
+ShotsOffTarget,Stuttgart,4,Leverkusen,11
+ShotsBlocked,Stuttgart,3,Leverkusen,2
+Touches,Stuttgart,508,Leverkusen,909
+PassesTotal,Stuttgart,307,Leverkusen,697
+PassesAccurate,Stuttgart,206,Leverkusen,586
+KeyPasses,Stuttgart,9,Leverkusen,12
+DribblesAttempted,Stuttgart,8,Leverkusen,13
+DribblesPast,Stuttgart,8,Leverkusen,5
+DribbleSuccess,Stuttgart,63,Leverkusen,62
+OffensiveAerials,Stuttgart,38,Leverkusen,13
+DefensiveAerials,Stuttgart,13,Leverkusen,38
+AerialsWon,Stuttgart,51,Leverkusen,49
+TacklesAttempted,Stuttgart,32,Leverkusen,14
+TacklesUnsuccessful,Stuttgart,8,Leverkusen,5
+TackleSuccess,Stuttgart,75,Leverkusen,64
+Clearances,Stuttgart,21,Leverkusen,21
+Interceptions,Stuttgart,12,Leverkusen,6
+Errors,Stuttgart,0,Leverkusen,0
+Fouls,Stuttgart,16,Leverkusen,12
+Offsides,Stuttgart,5,Leverkusen,1
+Rating,Borussia Dortmund,7.06,Mainz,6.53
+TotalShots,Borussia Dortmund,12,Mainz,17
+Possession,Borussia Dortmund,60.8,Mainz,39.2
+PassSuccess,Borussia Dortmund,84,Mainz,77
+DribblesWon,Borussia Dortmund,11,Mainz,8
+AerialsWon,Borussia Dortmund,15,Mainz,17
+TackleSuccessful,Borussia Dortmund,18,Mainz,18
+CornersTotal,Borussia Dortmund,4,Mainz,4
+Dispossessed,Borussia Dortmund,6,Mainz,12
+ShotsOnPost,Borussia Dortmund,0,Mainz,2
+ShotsOnTarget,Borussia Dortmund,7,Mainz,9
+ShotsOffTarget,Borussia Dortmund,3,Mainz,5
+ShotsBlocked,Borussia Dortmund,2,Mainz,3
+Touches,Borussia Dortmund,949,Mainz,669
+PassesTotal,Borussia Dortmund,727,Mainz,447
+PassesAccurate,Borussia Dortmund,613,Mainz,343
+KeyPasses,Borussia Dortmund,10,Mainz,9
+DribblesAttempted,Borussia Dortmund,23,Mainz,14
+DribblesPast,Borussia Dortmund,8,Mainz,11
+DribbleSuccess,Borussia Dortmund,48,Mainz,57
+OffensiveAerials,Borussia Dortmund,12,Mainz,20
+DefensiveAerials,Borussia Dortmund,20,Mainz,12
+AerialsWon,Borussia Dortmund,47,Mainz,53
+TacklesAttempted,Borussia Dortmund,26,Mainz,29
+TacklesUnsuccessful,Borussia Dortmund,8,Mainz,11
+TackleSuccess,Borussia Dortmund,69,Mainz,62
+Clearances,Borussia Dortmund,23,Mainz,8
+Interceptions,Borussia Dortmund,13,Mainz,11
+Errors,Borussia Dortmund,1,Mainz,0
+Fouls,Borussia Dortmund,12,Mainz,6
+Offsides,Borussia Dortmund,1,Mainz,1
+Rating,Hoffenheim,7.36,Hertha Berlin,6.48
+TotalShots,Hoffenheim,29,Hertha Berlin,5
+Possession,Hoffenheim,59.7,Hertha Berlin,40.3
+PassSuccess,Hoffenheim,85,Hertha Berlin,78
+DribblesWon,Hoffenheim,11,Hertha Berlin,13
+AerialsWon,Hoffenheim,14,Hertha Berlin,20
+TackleSuccessful,Hoffenheim,15,Hertha Berlin,12
+CornersTotal,Hoffenheim,9,Hertha Berlin,3
+Dispossessed,Hoffenheim,6,Hertha Berlin,9
+ShotsOnPost,Hoffenheim,2,Hertha Berlin,0
+ShotsOnTarget,Hoffenheim,7,Hertha Berlin,2
+ShotsOffTarget,Hoffenheim,16,Hertha Berlin,3
+ShotsBlocked,Hoffenheim,6,Hertha Berlin,0
+Touches,Hoffenheim,785,Hertha Berlin,584
+PassesTotal,Hoffenheim,575,Hertha Berlin,391
+PassesAccurate,Hoffenheim,490,Hertha Berlin,305
+KeyPasses,Hoffenheim,25,Hertha Berlin,3
+DribblesAttempted,Hoffenheim,17,Hertha Berlin,19
+DribblesPast,Hoffenheim,13,Hertha Berlin,11
+DribbleSuccess,Hoffenheim,65,Hertha Berlin,68
+OffensiveAerials,Hoffenheim,17,Hertha Berlin,17
+DefensiveAerials,Hoffenheim,17,Hertha Berlin,17
+AerialsWon,Hoffenheim,41,Hertha Berlin,59
+TacklesAttempted,Hoffenheim,28,Hertha Berlin,23
+TacklesUnsuccessful,Hoffenheim,13,Hertha Berlin,11
+TackleSuccess,Hoffenheim,54,Hertha Berlin,52
+Clearances,Hoffenheim,11,Hertha Berlin,32
+Interceptions,Hoffenheim,15,Hertha Berlin,11
+Errors,Hoffenheim,0,Hertha Berlin,0
+Fouls,Hoffenheim,8,Hertha Berlin,16
+Offsides,Hoffenheim,1,Hertha Berlin,1
+Rating,Fortuna Duesseldorf,6.15,Bayern,7.47
+TotalShots,Fortuna Duesseldorf,7,Bayern,19
+Possession,Fortuna Duesseldorf,32.9,Bayern,67.1
+PassSuccess,Fortuna Duesseldorf,76,Bayern,89
+DribblesWon,Fortuna Duesseldorf,6,Bayern,23
+AerialsWon,Fortuna Duesseldorf,6,Bayern,24
+TackleSuccessful,Fortuna Duesseldorf,23,Bayern,15
+CornersTotal,Fortuna Duesseldorf,2,Bayern,6
+Dispossessed,Fortuna Duesseldorf,9,Bayern,11
+ShotsOnPost,Fortuna Duesseldorf,0,Bayern,0
+ShotsOnTarget,Fortuna Duesseldorf,2,Bayern,10
+ShotsOffTarget,Fortuna Duesseldorf,2,Bayern,6
+ShotsBlocked,Fortuna Duesseldorf,3,Bayern,3
+Touches,Fortuna Duesseldorf,521,Bayern,922
+PassesTotal,Fortuna Duesseldorf,359,Bayern,735
+PassesAccurate,Fortuna Duesseldorf,274,Bayern,656
+KeyPasses,Fortuna Duesseldorf,4,Bayern,16
+DribblesAttempted,Fortuna Duesseldorf,12,Bayern,35
+DribblesPast,Fortuna Duesseldorf,23,Bayern,6
+DribbleSuccess,Fortuna Duesseldorf,50,Bayern,66
+OffensiveAerials,Fortuna Duesseldorf,17,Bayern,13
+DefensiveAerials,Fortuna Duesseldorf,13,Bayern,17
+AerialsWon,Fortuna Duesseldorf,20,Bayern,80
+TacklesAttempted,Fortuna Duesseldorf,46,Bayern,21
+TacklesUnsuccessful,Fortuna Duesseldorf,23,Bayern,6
+TackleSuccess,Fortuna Duesseldorf,50,Bayern,71
+Clearances,Fortuna Duesseldorf,21,Bayern,4
+Interceptions,Fortuna Duesseldorf,7,Bayern,8
+Errors,Fortuna Duesseldorf,0,Bayern,0
+Fouls,Fortuna Duesseldorf,10,Bayern,10
+Offsides,Fortuna Duesseldorf,1,Bayern,2
+Rating,Eintracht Frankfurt,6.34,Augsburg,7.12
+TotalShots,Eintracht Frankfurt,18,Augsburg,16
+Possession,Eintracht Frankfurt,44.1,Augsburg,55.9
+PassSuccess,Eintracht Frankfurt,66,Augsburg,73
+DribblesWon,Eintracht Frankfurt,11,Augsburg,13
+AerialsWon,Eintracht Frankfurt,31,Augsburg,20
+TackleSuccessful,Eintracht Frankfurt,13,Augsburg,17
+CornersTotal,Eintracht Frankfurt,8,Augsburg,2
+Dispossessed,Eintracht Frankfurt,8,Augsburg,8
+ShotsOnPost,Eintracht Frankfurt,0,Augsburg,0
+ShotsOnTarget,Eintracht Frankfurt,4,Augsburg,6
+ShotsOffTarget,Eintracht Frankfurt,9,Augsburg,9
+ShotsBlocked,Eintracht Frankfurt,5,Augsburg,1
+Touches,Eintracht Frankfurt,520,Augsburg,640
+PassesTotal,Eintracht Frankfurt,323,Augsburg,432
+PassesAccurate,Eintracht Frankfurt,213,Augsburg,317
+KeyPasses,Eintracht Frankfurt,13,Augsburg,15
+DribblesAttempted,Eintracht Frankfurt,20,Augsburg,18
+DribblesPast,Eintracht Frankfurt,13,Augsburg,11
+DribbleSuccess,Eintracht Frankfurt,55,Augsburg,72
+OffensiveAerials,Eintracht Frankfurt,32,Augsburg,19
+DefensiveAerials,Eintracht Frankfurt,19,Augsburg,32
+AerialsWon,Eintracht Frankfurt,61,Augsburg,39
+TacklesAttempted,Eintracht Frankfurt,26,Augsburg,28
+TacklesUnsuccessful,Eintracht Frankfurt,13,Augsburg,11
+TackleSuccess,Eintracht Frankfurt,50,Augsburg,61
+Clearances,Eintracht Frankfurt,6,Augsburg,21
+Interceptions,Eintracht Frankfurt,5,Augsburg,12
+Errors,Eintracht Frankfurt,0,Augsburg,0
+Fouls,Eintracht Frankfurt,19,Augsburg,9
+Offsides,Eintracht Frankfurt,4,Augsburg,7
+Rating,Bayern,7.01,Werder Bremen,6.44
+TotalShots,Bayern,28,Werder Bremen,3
+Possession,Bayern,69.5,Werder Bremen,30.5
+PassSuccess,Bayern,87,Werder Bremen,72
+DribblesWon,Bayern,9,Werder Bremen,4
+AerialsWon,Bayern,19,Werder Bremen,10
+TackleSuccessful,Bayern,8,Werder Bremen,16
+CornersTotal,Bayern,14,Werder Bremen,3
+Dispossessed,Bayern,7,Werder Bremen,4
+ShotsOnPost,Bayern,1,Werder Bremen,0
+ShotsOnTarget,Bayern,7,Werder Bremen,0
+ShotsOffTarget,Bayern,14,Werder Bremen,1
+ShotsBlocked,Bayern,7,Werder Bremen,2
+Touches,Bayern,815,Werder Bremen,450
+PassesTotal,Bayern,624,Werder Bremen,283
+PassesAccurate,Bayern,545,Werder Bremen,203
+KeyPasses,Bayern,20,Werder Bremen,3
+DribblesAttempted,Bayern,18,Werder Bremen,8
+DribblesPast,Bayern,4,Werder Bremen,9
+DribbleSuccess,Bayern,50,Werder Bremen,50
+OffensiveAerials,Bayern,17,Werder Bremen,12
+DefensiveAerials,Bayern,12,Werder Bremen,17
+AerialsWon,Bayern,66,Werder Bremen,34
+TacklesAttempted,Bayern,12,Werder Bremen,25
+TacklesUnsuccessful,Bayern,4,Werder Bremen,9
+TackleSuccess,Bayern,67,Werder Bremen,64
+Clearances,Bayern,9,Werder Bremen,33
+Interceptions,Bayern,4,Werder Bremen,12
+Errors,Bayern,0,Werder Bremen,0
+Fouls,Bayern,11,Werder Bremen,12
+Offsides,Bayern,0,Werder Bremen,1
+Rating,Augsburg,7.76,Stuttgart,5.94
+TotalShots,Augsburg,23,Stuttgart,13
+Possession,Augsburg,52.2,Stuttgart,47.8
+PassSuccess,Augsburg,81,Stuttgart,82
+DribblesWon,Augsburg,3,Stuttgart,8
+AerialsWon,Augsburg,14,Stuttgart,16
+TackleSuccessful,Augsburg,13,Stuttgart,11
+CornersTotal,Augsburg,9,Stuttgart,4
+Dispossessed,Augsburg,6,Stuttgart,8
+ShotsOnPost,Augsburg,0,Stuttgart,0
+ShotsOnTarget,Augsburg,13,Stuttgart,4
+ShotsOffTarget,Augsburg,9,Stuttgart,6
+ShotsBlocked,Augsburg,1,Stuttgart,3
+Touches,Augsburg,615,Stuttgart,590
+PassesTotal,Augsburg,443,Stuttgart,404
+PassesAccurate,Augsburg,360,Stuttgart,333
+KeyPasses,Augsburg,18,Stuttgart,10
+DribblesAttempted,Augsburg,8,Stuttgart,13
+DribblesPast,Augsburg,8,Stuttgart,3
+DribbleSuccess,Augsburg,38,Stuttgart,62
+OffensiveAerials,Augsburg,13,Stuttgart,17
+DefensiveAerials,Augsburg,17,Stuttgart,13
+AerialsWon,Augsburg,47,Stuttgart,53
+TacklesAttempted,Augsburg,21,Stuttgart,14
+TacklesUnsuccessful,Augsburg,8,Stuttgart,3
+TackleSuccess,Augsburg,62,Stuttgart,79
+Clearances,Augsburg,19,Stuttgart,24
+Interceptions,Augsburg,5,Stuttgart,10
+Errors,Augsburg,1,Stuttgart,1
+Fouls,Augsburg,14,Stuttgart,7
+Offsides,Augsburg,3,Stuttgart,0
+Rating,Leverkusen,7.24,Nuernberg,6.52
+TotalShots,Leverkusen,21,Nuernberg,5
+Possession,Leverkusen,63.8,Nuernberg,36.2
+PassSuccess,Leverkusen,87,Nuernberg,76
+DribblesWon,Leverkusen,12,Nuernberg,11
+AerialsWon,Leverkusen,17,Nuernberg,16
+TackleSuccessful,Leverkusen,15,Nuernberg,17
+CornersTotal,Leverkusen,11,Nuernberg,1
+Dispossessed,Leverkusen,11,Nuernberg,10
+ShotsOnPost,Leverkusen,0,Nuernberg,0
+ShotsOnTarget,Leverkusen,9,Nuernberg,1
+ShotsOffTarget,Leverkusen,8,Nuernberg,2
+ShotsBlocked,Leverkusen,4,Nuernberg,2
+Touches,Leverkusen,874,Nuernberg,579
+PassesTotal,Leverkusen,688,Nuernberg,388
+PassesAccurate,Leverkusen,600,Nuernberg,296
+KeyPasses,Leverkusen,19,Nuernberg,5
+DribblesAttempted,Leverkusen,18,Nuernberg,16
+DribblesPast,Leverkusen,11,Nuernberg,12
+DribbleSuccess,Leverkusen,67,Nuernberg,69
+OffensiveAerials,Leverkusen,16,Nuernberg,17
+DefensiveAerials,Leverkusen,17,Nuernberg,16
+AerialsWon,Leverkusen,52,Nuernberg,48
+TacklesAttempted,Leverkusen,26,Nuernberg,29
+TacklesUnsuccessful,Leverkusen,11,Nuernberg,12
+TackleSuccess,Leverkusen,58,Nuernberg,59
+Clearances,Leverkusen,5,Nuernberg,27
+Interceptions,Leverkusen,10,Nuernberg,13
+Errors,Leverkusen,0,Nuernberg,0
+Fouls,Leverkusen,11,Nuernberg,7
+Offsides,Leverkusen,1,Nuernberg,1
+Rating,Mainz,7.27,Fortuna Duesseldorf,6.15
+TotalShots,Mainz,21,Fortuna Duesseldorf,16
+Possession,Mainz,55.2,Fortuna Duesseldorf,44.8
+PassSuccess,Mainz,82,Fortuna Duesseldorf,74
+DribblesWon,Mainz,17,Fortuna Duesseldorf,9
+AerialsWon,Mainz,14,Fortuna Duesseldorf,11
+TackleSuccessful,Mainz,16,Fortuna Duesseldorf,8
+CornersTotal,Mainz,3,Fortuna Duesseldorf,7
+Dispossessed,Mainz,4,Fortuna Duesseldorf,9
+ShotsOnPost,Mainz,1,Fortuna Duesseldorf,1
+ShotsOnTarget,Mainz,5,Fortuna Duesseldorf,7
+ShotsOffTarget,Mainz,11,Fortuna Duesseldorf,7
+ShotsBlocked,Mainz,5,Fortuna Duesseldorf,2
+Touches,Mainz,646,Fortuna Duesseldorf,531
+PassesTotal,Mainz,450,Fortuna Duesseldorf,352
+PassesAccurate,Mainz,369,Fortuna Duesseldorf,262
+KeyPasses,Mainz,17,Fortuna Duesseldorf,10
+DribblesAttempted,Mainz,21,Fortuna Duesseldorf,16
+DribblesPast,Mainz,9,Fortuna Duesseldorf,17
+DribbleSuccess,Mainz,81,Fortuna Duesseldorf,56
+OffensiveAerials,Mainz,16,Fortuna Duesseldorf,9
+DefensiveAerials,Mainz,9,Fortuna Duesseldorf,16
+AerialsWon,Mainz,56,Fortuna Duesseldorf,44
+TacklesAttempted,Mainz,25,Fortuna Duesseldorf,25
+TacklesUnsuccessful,Mainz,9,Fortuna Duesseldorf,17
+TackleSuccess,Mainz,64,Fortuna Duesseldorf,32
+Clearances,Mainz,21,Fortuna Duesseldorf,8
+Interceptions,Mainz,12,Fortuna Duesseldorf,9
+Errors,Mainz,0,Fortuna Duesseldorf,1
+Fouls,Mainz,11,Fortuna Duesseldorf,14
+Offsides,Mainz,3,Fortuna Duesseldorf,3
+Rating,Borussia M.Gladbach,6.58,RasenBallsport Leipzig,6.95
+TotalShots,Borussia M.Gladbach,15,RasenBallsport Leipzig,13
+Possession,Borussia M.Gladbach,61.1,RasenBallsport Leipzig,38.9
+PassSuccess,Borussia M.Gladbach,81,RasenBallsport Leipzig,74
+DribblesWon,Borussia M.Gladbach,13,RasenBallsport Leipzig,16
+AerialsWon,Borussia M.Gladbach,19,RasenBallsport Leipzig,20
+TackleSuccessful,Borussia M.Gladbach,19,RasenBallsport Leipzig,13
+CornersTotal,Borussia M.Gladbach,2,RasenBallsport Leipzig,4
+Dispossessed,Borussia M.Gladbach,7,RasenBallsport Leipzig,10
+ShotsOnPost,Borussia M.Gladbach,0,RasenBallsport Leipzig,1
+ShotsOnTarget,Borussia M.Gladbach,4,RasenBallsport Leipzig,4
+ShotsOffTarget,Borussia M.Gladbach,6,RasenBallsport Leipzig,7
+ShotsBlocked,Borussia M.Gladbach,5,RasenBallsport Leipzig,2
+Touches,Borussia M.Gladbach,780,RasenBallsport Leipzig,579
+PassesTotal,Borussia M.Gladbach,594,RasenBallsport Leipzig,384
+PassesAccurate,Borussia M.Gladbach,482,RasenBallsport Leipzig,284
+KeyPasses,Borussia M.Gladbach,13,RasenBallsport Leipzig,11
+DribblesAttempted,Borussia M.Gladbach,19,RasenBallsport Leipzig,25
+DribblesPast,Borussia M.Gladbach,16,RasenBallsport Leipzig,13
+DribbleSuccess,Borussia M.Gladbach,68,RasenBallsport Leipzig,64
+OffensiveAerials,Borussia M.Gladbach,24,RasenBallsport Leipzig,15
+DefensiveAerials,Borussia M.Gladbach,15,RasenBallsport Leipzig,24
+AerialsWon,Borussia M.Gladbach,49,RasenBallsport Leipzig,51
+TacklesAttempted,Borussia M.Gladbach,35,RasenBallsport Leipzig,26
+TacklesUnsuccessful,Borussia M.Gladbach,16,RasenBallsport Leipzig,13
+TackleSuccess,Borussia M.Gladbach,54,RasenBallsport Leipzig,50
+Clearances,Borussia M.Gladbach,5,RasenBallsport Leipzig,32
+Interceptions,Borussia M.Gladbach,10,RasenBallsport Leipzig,9
+Errors,Borussia M.Gladbach,0,RasenBallsport Leipzig,0
+Fouls,Borussia M.Gladbach,13,RasenBallsport Leipzig,16
+Offsides,Borussia M.Gladbach,8,RasenBallsport Leipzig,1
+Rating,Schalke,6.27,Hoffenheim,7.29
+TotalShots,Schalke,15,Hoffenheim,11
+Possession,Schalke,39.8,Hoffenheim,60.2
+PassSuccess,Schalke,78,Hoffenheim,85
+DribblesWon,Schalke,12,Hoffenheim,8
+AerialsWon,Schalke,9,Hoffenheim,13
+TackleSuccessful,Schalke,22,Hoffenheim,24
+CornersTotal,Schalke,6,Hoffenheim,1
+Dispossessed,Schalke,19,Hoffenheim,10
+ShotsOnPost,Schalke,1,Hoffenheim,0
+ShotsOnTarget,Schalke,5,Hoffenheim,6
+ShotsOffTarget,Schalke,7,Hoffenheim,3
+ShotsBlocked,Schalke,3,Hoffenheim,2
+Touches,Schalke,502,Hoffenheim,684
+PassesTotal,Schalke,313,Hoffenheim,474
+PassesAccurate,Schalke,244,Hoffenheim,403
+KeyPasses,Schalke,9,Hoffenheim,8
+DribblesAttempted,Schalke,17,Hoffenheim,20
+DribblesPast,Schalke,8,Hoffenheim,12
+DribbleSuccess,Schalke,71,Hoffenheim,40
+OffensiveAerials,Schalke,12,Hoffenheim,10
+DefensiveAerials,Schalke,10,Hoffenheim,12
+AerialsWon,Schalke,41,Hoffenheim,59
+TacklesAttempted,Schalke,30,Hoffenheim,36
+TacklesUnsuccessful,Schalke,8,Hoffenheim,12
+TackleSuccess,Schalke,73,Hoffenheim,67
+Clearances,Schalke,13,Hoffenheim,24
+Interceptions,Schalke,6,Hoffenheim,6
+Errors,Schalke,0,Hoffenheim,1
+Fouls,Schalke,15,Hoffenheim,15
+Offsides,Schalke,2,Hoffenheim,0
+Rating,Freiburg,6.00,Borussia Dortmund,7.25
+TotalShots,Freiburg,11,Borussia Dortmund,10
+Possession,Freiburg,41,Borussia Dortmund,59
+PassSuccess,Freiburg,87,Borussia Dortmund,89
+DribblesWon,Freiburg,5,Borussia Dortmund,7
+AerialsWon,Freiburg,7,Borussia Dortmund,5
+TackleSuccessful,Freiburg,16,Borussia Dortmund,8
+CornersTotal,Freiburg,5,Borussia Dortmund,3
+Dispossessed,Freiburg,1,Borussia Dortmund,10
+ShotsOnPost,Freiburg,0,Borussia Dortmund,0
+ShotsOnTarget,Freiburg,2,Borussia Dortmund,6
+ShotsOffTarget,Freiburg,4,Borussia Dortmund,1
+ShotsBlocked,Freiburg,5,Borussia Dortmund,3
+Touches,Freiburg,627,Borussia Dortmund,830
+PassesTotal,Freiburg,466,Borussia Dortmund,684
+PassesAccurate,Freiburg,404,Borussia Dortmund,609
+KeyPasses,Freiburg,10,Borussia Dortmund,8
+DribblesAttempted,Freiburg,12,Borussia Dortmund,13
+DribblesPast,Freiburg,7,Borussia Dortmund,5
+DribbleSuccess,Freiburg,42,Borussia Dortmund,54
+OffensiveAerials,Freiburg,8,Borussia Dortmund,4
+DefensiveAerials,Freiburg,4,Borussia Dortmund,8
+AerialsWon,Freiburg,58,Borussia Dortmund,42
+TacklesAttempted,Freiburg,23,Borussia Dortmund,13
+TacklesUnsuccessful,Freiburg,7,Borussia Dortmund,5
+TackleSuccess,Freiburg,70,Borussia Dortmund,62
+Clearances,Freiburg,17,Borussia Dortmund,14
+Interceptions,Freiburg,12,Borussia Dortmund,6
+Errors,Freiburg,0,Borussia Dortmund,0
+Fouls,Freiburg,11,Borussia Dortmund,6
+Offsides,Freiburg,5,Borussia Dortmund,1
+Rating,Hertha Berlin,6.70,Hannover,6.94
+TotalShots,Hertha Berlin,16,Hannover,13
+Possession,Hertha Berlin,59.5,Hannover,40.5
+PassSuccess,Hertha Berlin,80,Hannover,67
+DribblesWon,Hertha Berlin,10,Hannover,13
+AerialsWon,Hertha Berlin,15,Hannover,25
+TackleSuccessful,Hertha Berlin,10,Hannover,13
+CornersTotal,Hertha Berlin,5,Hannover,8
+Dispossessed,Hertha Berlin,4,Hannover,6
+ShotsOnPost,Hertha Berlin,0,Hannover,0
+ShotsOnTarget,Hertha Berlin,3,Hannover,5
+ShotsOffTarget,Hertha Berlin,8,Hannover,5
+ShotsBlocked,Hertha Berlin,5,Hannover,3
+Touches,Hertha Berlin,642,Hannover,503
+PassesTotal,Hertha Berlin,443,Hannover,298
+PassesAccurate,Hertha Berlin,354,Hannover,200
+KeyPasses,Hertha Berlin,13,Hannover,9
+DribblesAttempted,Hertha Berlin,19,Hannover,17
+DribblesPast,Hertha Berlin,13,Hannover,10
+DribbleSuccess,Hertha Berlin,53,Hannover,76
+OffensiveAerials,Hertha Berlin,24,Hannover,16
+DefensiveAerials,Hertha Berlin,16,Hannover,24
+AerialsWon,Hertha Berlin,38,Hannover,63
+TacklesAttempted,Hertha Berlin,23,Hannover,23
+TacklesUnsuccessful,Hertha Berlin,13,Hannover,10
+TackleSuccess,Hertha Berlin,43,Hannover,57
+Clearances,Hertha Berlin,13,Hannover,30
+Interceptions,Hertha Berlin,10,Hannover,13
+Errors,Hertha Berlin,0,Hannover,0
+Fouls,Hertha Berlin,14,Hannover,9
+Offsides,Hertha Berlin,1,Hannover,3
+Rating,Wolfsburg,6.67,Eintracht Frankfurt,6.79
+TotalShots,Wolfsburg,20,Eintracht Frankfurt,12
+Possession,Wolfsburg,58.8,Eintracht Frankfurt,41.2
+PassSuccess,Wolfsburg,74,Eintracht Frankfurt,64
+DribblesWon,Wolfsburg,6,Eintracht Frankfurt,8
+AerialsWon,Wolfsburg,18,Eintracht Frankfurt,24
+TackleSuccessful,Wolfsburg,21,Eintracht Frankfurt,23
+CornersTotal,Wolfsburg,13,Eintracht Frankfurt,6
+Dispossessed,Wolfsburg,12,Eintracht Frankfurt,12
+ShotsOnPost,Wolfsburg,2,Eintracht Frankfurt,0
+ShotsOnTarget,Wolfsburg,8,Eintracht Frankfurt,3
+ShotsOffTarget,Wolfsburg,6,Eintracht Frankfurt,4
+ShotsBlocked,Wolfsburg,6,Eintracht Frankfurt,5
+Touches,Wolfsburg,692,Eintracht Frankfurt,550
+PassesTotal,Wolfsburg,450,Eintracht Frankfurt,317
+PassesAccurate,Wolfsburg,331,Eintracht Frankfurt,202
+KeyPasses,Wolfsburg,14,Eintracht Frankfurt,6
+DribblesAttempted,Wolfsburg,17,Eintracht Frankfurt,17
+DribblesPast,Wolfsburg,8,Eintracht Frankfurt,6
+DribbleSuccess,Wolfsburg,35,Eintracht Frankfurt,47
+OffensiveAerials,Wolfsburg,23,Eintracht Frankfurt,19
+DefensiveAerials,Wolfsburg,19,Eintracht Frankfurt,23
+AerialsWon,Wolfsburg,43,Eintracht Frankfurt,57
+TacklesAttempted,Wolfsburg,29,Eintracht Frankfurt,29
+TacklesUnsuccessful,Wolfsburg,8,Eintracht Frankfurt,6
+TackleSuccess,Wolfsburg,72,Eintracht Frankfurt,79
+Clearances,Wolfsburg,18,Eintracht Frankfurt,30
+Interceptions,Wolfsburg,12,Eintracht Frankfurt,9
+Errors,Wolfsburg,2,Eintracht Frankfurt,0
+Fouls,Wolfsburg,10,Eintracht Frankfurt,10
+Offsides,Wolfsburg,4,Eintracht Frankfurt,1
+Rating,Augsburg,6.22,Leverkusen,7.18
+TotalShots,Augsburg,8,Leverkusen,13
+Possession,Augsburg,25.8,Leverkusen,74.3
+PassSuccess,Augsburg,69,Leverkusen,91
+DribblesWon,Augsburg,6,Leverkusen,9
+AerialsWon,Augsburg,9,Leverkusen,14
+TackleSuccessful,Augsburg,18,Leverkusen,13
+CornersTotal,Augsburg,3,Leverkusen,3
+Dispossessed,Augsburg,8,Leverkusen,10
+ShotsOnPost,Augsburg,0,Leverkusen,1
+ShotsOnTarget,Augsburg,2,Leverkusen,7
+ShotsOffTarget,Augsburg,5,Leverkusen,6
+ShotsBlocked,Augsburg,1,Leverkusen,0
+Touches,Augsburg,460,Leverkusen,1059
+PassesTotal,Augsburg,291,Leverkusen,872
+PassesAccurate,Augsburg,200,Leverkusen,791
+KeyPasses,Augsburg,7,Leverkusen,11
+DribblesAttempted,Augsburg,11,Leverkusen,17
+DribblesPast,Augsburg,9,Leverkusen,6
+DribbleSuccess,Augsburg,55,Leverkusen,53
+OffensiveAerials,Augsburg,13,Leverkusen,10
+DefensiveAerials,Augsburg,10,Leverkusen,13
+AerialsWon,Augsburg,39,Leverkusen,61
+TacklesAttempted,Augsburg,27,Leverkusen,19
+TacklesUnsuccessful,Augsburg,9,Leverkusen,6
+TackleSuccess,Augsburg,67,Leverkusen,68
+Clearances,Augsburg,16,Leverkusen,14
+Interceptions,Augsburg,15,Leverkusen,13
+Errors,Augsburg,0,Leverkusen,0
+Fouls,Augsburg,11,Leverkusen,8
+Offsides,Augsburg,2,Leverkusen,5
+Rating,Hannover,7.07,Mainz,6.59
+TotalShots,Hannover,8,Mainz,23
+Possession,Hannover,39.8,Mainz,60.2
+PassSuccess,Hannover,69,Mainz,82
+DribblesWon,Hannover,9,Mainz,13
+AerialsWon,Hannover,21,Mainz,29
+TackleSuccessful,Hannover,25,Mainz,18
+CornersTotal,Hannover,4,Mainz,7
+Dispossessed,Hannover,10,Mainz,16
+ShotsOnPost,Hannover,0,Mainz,0
+ShotsOnTarget,Hannover,3,Mainz,4
+ShotsOffTarget,Hannover,2,Mainz,13
+ShotsBlocked,Hannover,3,Mainz,6
+Touches,Hannover,591,Mainz,774
+PassesTotal,Hannover,370,Mainz,544
+PassesAccurate,Hannover,257,Mainz,445
+KeyPasses,Hannover,8,Mainz,18
+DribblesAttempted,Hannover,17,Mainz,22
+DribblesPast,Hannover,13,Mainz,9
+DribbleSuccess,Hannover,53,Mainz,59
+OffensiveAerials,Hannover,20,Mainz,30
+DefensiveAerials,Hannover,30,Mainz,20
+AerialsWon,Hannover,42,Mainz,58
+TacklesAttempted,Hannover,38,Mainz,27
+TacklesUnsuccessful,Hannover,13,Mainz,9
+TackleSuccess,Hannover,66,Mainz,67
+Clearances,Hannover,24,Mainz,14
+Interceptions,Hannover,14,Mainz,12
+Errors,Hannover,0,Mainz,1
+Fouls,Hannover,10,Mainz,14
+Offsides,Hannover,1,Mainz,2
+Rating,Fortuna Duesseldorf,7.54,Werder Bremen,6.17
+TotalShots,Fortuna Duesseldorf,13,Werder Bremen,18
+Possession,Fortuna Duesseldorf,45.9,Werder Bremen,54.1
+PassSuccess,Fortuna Duesseldorf,84,Werder Bremen,87
+DribblesWon,Fortuna Duesseldorf,12,Werder Bremen,5
+AerialsWon,Fortuna Duesseldorf,16,Werder Bremen,8
+TackleSuccessful,Fortuna Duesseldorf,27,Werder Bremen,11
+CornersTotal,Fortuna Duesseldorf,4,Werder Bremen,9
+Dispossessed,Fortuna Duesseldorf,4,Werder Bremen,11
+ShotsOnPost,Fortuna Duesseldorf,0,Werder Bremen,1
+ShotsOnTarget,Fortuna Duesseldorf,6,Werder Bremen,9
+ShotsOffTarget,Fortuna Duesseldorf,2,Werder Bremen,5
+ShotsBlocked,Fortuna Duesseldorf,5,Werder Bremen,4
+Touches,Fortuna Duesseldorf,653,Werder Bremen,694
+PassesTotal,Fortuna Duesseldorf,438,Werder Bremen,499
+PassesAccurate,Fortuna Duesseldorf,367,Werder Bremen,434
+KeyPasses,Fortuna Duesseldorf,10,Werder Bremen,13
+DribblesAttempted,Fortuna Duesseldorf,19,Werder Bremen,21
+DribblesPast,Fortuna Duesseldorf,5,Werder Bremen,12
+DribbleSuccess,Fortuna Duesseldorf,63,Werder Bremen,24
+OffensiveAerials,Fortuna Duesseldorf,8,Werder Bremen,16
+DefensiveAerials,Fortuna Duesseldorf,16,Werder Bremen,8
+AerialsWon,Fortuna Duesseldorf,67,Werder Bremen,33
+TacklesAttempted,Fortuna Duesseldorf,32,Werder Bremen,23
+TacklesUnsuccessful,Fortuna Duesseldorf,5,Werder Bremen,12
+TackleSuccess,Fortuna Duesseldorf,84,Werder Bremen,48
+Clearances,Fortuna Duesseldorf,36,Werder Bremen,12
+Interceptions,Fortuna Duesseldorf,10,Werder Bremen,9
+Errors,Fortuna Duesseldorf,0,Werder Bremen,0
+Fouls,Fortuna Duesseldorf,9,Werder Bremen,15
+Offsides,Fortuna Duesseldorf,2,Werder Bremen,1
+Rating,Borussia Dortmund,6.32,Schalke,6.75
+TotalShots,Borussia Dortmund,8,Schalke,8
+Possession,Borussia Dortmund,69.9,Schalke,30.1
+PassSuccess,Borussia Dortmund,91,Schalke,78
+DribblesWon,Borussia Dortmund,23,Schalke,5
+AerialsWon,Borussia Dortmund,4,Schalke,5
+TackleSuccessful,Borussia Dortmund,16,Schalke,21
+CornersTotal,Borussia Dortmund,2,Schalke,4
+Dispossessed,Borussia Dortmund,8,Schalke,7
+ShotsOnPost,Borussia Dortmund,0,Schalke,0
+ShotsOnTarget,Borussia Dortmund,2,Schalke,4
+ShotsOffTarget,Borussia Dortmund,4,Schalke,3
+ShotsBlocked,Borussia Dortmund,2,Schalke,1
+Touches,Borussia Dortmund,833,Schalke,434
+PassesTotal,Borussia Dortmund,654,Schalke,280
+PassesAccurate,Borussia Dortmund,593,Schalke,217
+KeyPasses,Borussia Dortmund,6,Schalke,6
+DribblesAttempted,Borussia Dortmund,36,Schalke,14
+DribblesPast,Borussia Dortmund,5,Schalke,23
+DribbleSuccess,Borussia Dortmund,64,Schalke,36
+OffensiveAerials,Borussia Dortmund,3,Schalke,6
+DefensiveAerials,Borussia Dortmund,6,Schalke,3
+AerialsWon,Borussia Dortmund,44,Schalke,56
+TacklesAttempted,Borussia Dortmund,21,Schalke,44
+TacklesUnsuccessful,Borussia Dortmund,5,Schalke,23
+TackleSuccess,Borussia Dortmund,76,Schalke,48
+Clearances,Borussia Dortmund,8,Schalke,16
+Interceptions,Borussia Dortmund,9,Schalke,13
+Errors,Borussia Dortmund,0,Schalke,0
+Fouls,Borussia Dortmund,11,Schalke,19
+Offsides,Borussia Dortmund,1,Schalke,2
+Rating,Eintracht Frankfurt,6.84,Hertha Berlin,6.79
+TotalShots,Eintracht Frankfurt,11,Hertha Berlin,11
+Possession,Eintracht Frankfurt,48.4,Hertha Berlin,51.6
+PassSuccess,Eintracht Frankfurt,64,Hertha Berlin,71
+DribblesWon,Eintracht Frankfurt,10,Hertha Berlin,13
+AerialsWon,Eintracht Frankfurt,37,Hertha Berlin,28
+TackleSuccessful,Eintracht Frankfurt,19,Hertha Berlin,16
+CornersTotal,Eintracht Frankfurt,2,Hertha Berlin,4
+Dispossessed,Eintracht Frankfurt,12,Hertha Berlin,11
+ShotsOnPost,Eintracht Frankfurt,0,Hertha Berlin,0
+ShotsOnTarget,Eintracht Frankfurt,4,Hertha Berlin,3
+ShotsOffTarget,Eintracht Frankfurt,6,Hertha Berlin,4
+ShotsBlocked,Eintracht Frankfurt,1,Hertha Berlin,4
+Touches,Eintracht Frankfurt,601,Hertha Berlin,653
+PassesTotal,Eintracht Frankfurt,381,Hertha Berlin,415
+PassesAccurate,Eintracht Frankfurt,242,Hertha Berlin,293
+KeyPasses,Eintracht Frankfurt,9,Hertha Berlin,8
+DribblesAttempted,Eintracht Frankfurt,14,Hertha Berlin,21
+DribblesPast,Eintracht Frankfurt,13,Hertha Berlin,10
+DribbleSuccess,Eintracht Frankfurt,71,Hertha Berlin,62
+OffensiveAerials,Eintracht Frankfurt,35,Hertha Berlin,30
+DefensiveAerials,Eintracht Frankfurt,30,Hertha Berlin,35
+AerialsWon,Eintracht Frankfurt,57,Hertha Berlin,43
+TacklesAttempted,Eintracht Frankfurt,32,Hertha Berlin,26
+TacklesUnsuccessful,Eintracht Frankfurt,13,Hertha Berlin,10
+TackleSuccess,Eintracht Frankfurt,59,Hertha Berlin,62
+Clearances,Eintracht Frankfurt,26,Hertha Berlin,30
+Interceptions,Eintracht Frankfurt,4,Hertha Berlin,20
+Errors,Eintracht Frankfurt,0,Hertha Berlin,0
+Fouls,Eintracht Frankfurt,15,Hertha Berlin,16
+Offsides,Eintracht Frankfurt,2,Hertha Berlin,5
+Rating,RasenBallsport Leipzig,6.90,Freiburg,6.49
+TotalShots,RasenBallsport Leipzig,14,Freiburg,14
+Possession,RasenBallsport Leipzig,47.3,Freiburg,52.7
+PassSuccess,RasenBallsport Leipzig,76,Freiburg,81
+DribblesWon,RasenBallsport Leipzig,12,Freiburg,5
+AerialsWon,RasenBallsport Leipzig,13,Freiburg,17
+TackleSuccessful,RasenBallsport Leipzig,17,Freiburg,18
+CornersTotal,RasenBallsport Leipzig,5,Freiburg,4
+Dispossessed,RasenBallsport Leipzig,12,Freiburg,10
+ShotsOnPost,RasenBallsport Leipzig,0,Freiburg,0
+ShotsOnTarget,RasenBallsport Leipzig,4,Freiburg,8
+ShotsOffTarget,RasenBallsport Leipzig,6,Freiburg,5
+ShotsBlocked,RasenBallsport Leipzig,4,Freiburg,1
+Touches,RasenBallsport Leipzig,613,Freiburg,662
+PassesTotal,RasenBallsport Leipzig,405,Freiburg,464
+PassesAccurate,RasenBallsport Leipzig,309,Freiburg,376
+KeyPasses,RasenBallsport Leipzig,9,Freiburg,9
+DribblesAttempted,RasenBallsport Leipzig,18,Freiburg,12
+DribblesPast,RasenBallsport Leipzig,5,Freiburg,12
+DribbleSuccess,RasenBallsport Leipzig,67,Freiburg,42
+OffensiveAerials,RasenBallsport Leipzig,13,Freiburg,17
+DefensiveAerials,RasenBallsport Leipzig,17,Freiburg,13
+AerialsWon,RasenBallsport Leipzig,43,Freiburg,57
+TacklesAttempted,RasenBallsport Leipzig,22,Freiburg,30
+TacklesUnsuccessful,RasenBallsport Leipzig,5,Freiburg,12
+TackleSuccess,RasenBallsport Leipzig,77,Freiburg,60
+Clearances,RasenBallsport Leipzig,20,Freiburg,20
+Interceptions,RasenBallsport Leipzig,7,Freiburg,16
+Errors,RasenBallsport Leipzig,0,Freiburg,0
+Fouls,RasenBallsport Leipzig,15,Freiburg,17
+Offsides,RasenBallsport Leipzig,0,Freiburg,3
+Rating,Stuttgart,7.13,Borussia M.Gladbach,6.34
+TotalShots,Stuttgart,13,Borussia M.Gladbach,18
+Possession,Stuttgart,31.8,Borussia M.Gladbach,68.2
+PassSuccess,Stuttgart,71,Borussia M.Gladbach,83
+DribblesWon,Stuttgart,8,Borussia M.Gladbach,6
+AerialsWon,Stuttgart,37,Borussia M.Gladbach,23
+TackleSuccessful,Stuttgart,17,Borussia M.Gladbach,13
+CornersTotal,Stuttgart,2,Borussia M.Gladbach,7
+Dispossessed,Stuttgart,10,Borussia M.Gladbach,11
+ShotsOnPost,Stuttgart,1,Borussia M.Gladbach,0
+ShotsOnTarget,Stuttgart,6,Borussia M.Gladbach,4
+ShotsOffTarget,Stuttgart,5,Borussia M.Gladbach,7
+ShotsBlocked,Stuttgart,2,Borussia M.Gladbach,7
+Touches,Stuttgart,491,Borussia M.Gladbach,765
+PassesTotal,Stuttgart,266,Borussia M.Gladbach,573
+PassesAccurate,Stuttgart,190,Borussia M.Gladbach,478
+KeyPasses,Stuttgart,9,Borussia M.Gladbach,6
+DribblesAttempted,Stuttgart,11,Borussia M.Gladbach,12
+DribblesPast,Stuttgart,6,Borussia M.Gladbach,8
+DribbleSuccess,Stuttgart,73,Borussia M.Gladbach,50
+OffensiveAerials,Stuttgart,32,Borussia M.Gladbach,28
+DefensiveAerials,Stuttgart,28,Borussia M.Gladbach,32
+AerialsWon,Stuttgart,62,Borussia M.Gladbach,38
+TacklesAttempted,Stuttgart,23,Borussia M.Gladbach,21
+TacklesUnsuccessful,Stuttgart,6,Borussia M.Gladbach,8
+TackleSuccess,Stuttgart,74,Borussia M.Gladbach,62
+Clearances,Stuttgart,44,Borussia M.Gladbach,13
+Interceptions,Stuttgart,10,Borussia M.Gladbach,4
+Errors,Stuttgart,0,Borussia M.Gladbach,2
+Fouls,Stuttgart,20,Borussia M.Gladbach,10
+Offsides,Stuttgart,4,Borussia M.Gladbach,2
+Rating,Hoffenheim,6.36,Wolfsburg,7.36
+TotalShots,Hoffenheim,18,Wolfsburg,21
+Possession,Hoffenheim,45,Wolfsburg,55
+PassSuccess,Hoffenheim,77,Wolfsburg,81
+DribblesWon,Hoffenheim,8,Wolfsburg,9
+AerialsWon,Hoffenheim,20,Wolfsburg,13
+TackleSuccessful,Hoffenheim,10,Wolfsburg,19
+CornersTotal,Hoffenheim,9,Wolfsburg,3
+Dispossessed,Hoffenheim,10,Wolfsburg,8
+ShotsOnPost,Hoffenheim,1,Wolfsburg,0
+ShotsOnTarget,Hoffenheim,7,Wolfsburg,10
+ShotsOffTarget,Hoffenheim,10,Wolfsburg,7
+ShotsBlocked,Hoffenheim,1,Wolfsburg,4
+Touches,Hoffenheim,592,Wolfsburg,687
+PassesTotal,Hoffenheim,399,Wolfsburg,500
+PassesAccurate,Hoffenheim,309,Wolfsburg,404
+KeyPasses,Hoffenheim,12,Wolfsburg,18
+DribblesAttempted,Hoffenheim,17,Wolfsburg,11
+DribblesPast,Hoffenheim,9,Wolfsburg,8
+DribbleSuccess,Hoffenheim,47,Wolfsburg,82
+OffensiveAerials,Hoffenheim,21,Wolfsburg,12
+DefensiveAerials,Hoffenheim,12,Wolfsburg,21
+AerialsWon,Hoffenheim,61,Wolfsburg,39
+TacklesAttempted,Hoffenheim,19,Wolfsburg,27
+TacklesUnsuccessful,Hoffenheim,9,Wolfsburg,8
+TackleSuccess,Hoffenheim,53,Wolfsburg,70
+Clearances,Hoffenheim,14,Wolfsburg,23
+Interceptions,Hoffenheim,14,Wolfsburg,17
+Errors,Hoffenheim,2,Wolfsburg,0
+Fouls,Hoffenheim,13,Wolfsburg,10
+Offsides,Hoffenheim,1,Wolfsburg,1
+Rating,Nuernberg,6.62,Bayern,6.56
+TotalShots,Nuernberg,10,Bayern,17
+Possession,Nuernberg,33.2,Bayern,66.8
+PassSuccess,Nuernberg,69,Bayern,88
+DribblesWon,Nuernberg,4,Bayern,12
+AerialsWon,Nuernberg,27,Bayern,29
+TackleSuccessful,Nuernberg,16,Bayern,7
+CornersTotal,Nuernberg,5,Bayern,5
+Dispossessed,Nuernberg,5,Bayern,6
+ShotsOnPost,Nuernberg,1,Bayern,0
+ShotsOnTarget,Nuernberg,4,Bayern,6
+ShotsOffTarget,Nuernberg,4,Bayern,10
+ShotsBlocked,Nuernberg,2,Bayern,1
+Touches,Nuernberg,474,Bayern,806
+PassesTotal,Nuernberg,311,Bayern,613
+PassesAccurate,Nuernberg,214,Bayern,537
+KeyPasses,Nuernberg,4,Bayern,5
+DribblesAttempted,Nuernberg,6,Bayern,22
+DribblesPast,Nuernberg,12,Bayern,4
+DribbleSuccess,Nuernberg,67,Bayern,55
+OffensiveAerials,Nuernberg,37,Bayern,19
+DefensiveAerials,Nuernberg,19,Bayern,37
+AerialsWon,Nuernberg,48,Bayern,52
+TacklesAttempted,Nuernberg,28,Bayern,11
+TacklesUnsuccessful,Nuernberg,12,Bayern,4
+TackleSuccess,Nuernberg,57,Bayern,64
+Clearances,Nuernberg,34,Bayern,11
+Interceptions,Nuernberg,7,Bayern,7
+Errors,Nuernberg,1,Bayern,1
+Fouls,Nuernberg,12,Bayern,10
+Offsides,Nuernberg,1,Bayern,0

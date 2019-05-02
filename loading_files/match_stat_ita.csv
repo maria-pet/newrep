@@ -1,0 +1,1581 @@
+Rating,AC Milan,6.77,Udinese,6.74
+TotalShots,AC Milan,18,Udinese,7
+Possession,AC Milan,57.4,Udinese,42.6
+PassSuccess,AC Milan,83,Udinese,76
+DribblesWon,AC Milan,5,Udinese,13
+AerialsWon,AC Milan,20,Udinese,19
+TackleSuccessful,AC Milan,31,Udinese,16
+CornersTotal,AC Milan,7,Udinese,5
+Dispossessed,AC Milan,13,Udinese,23
+ShotsOnPost,AC Milan,0,Udinese,0
+ShotsOnTarget,AC Milan,6,Udinese,2
+ShotsOffTarget,AC Milan,5,Udinese,4
+ShotsBlocked,AC Milan,7,Udinese,1
+Touches,AC Milan,718,Udinese,609
+PassesTotal,AC Milan,483,Udinese,373
+PassesAccurate,AC Milan,402,Udinese,282
+KeyPasses,AC Milan,10,Udinese,6
+DribblesAttempted,AC Milan,8,Udinese,21
+DribblesPast,AC Milan,13,Udinese,5
+DribbleSuccess,AC Milan,63,Udinese,62
+OffensiveAerials,AC Milan,21,Udinese,18
+DefensiveAerials,AC Milan,18,Udinese,21
+AerialsWon,AC Milan,51,Udinese,49
+TacklesAttempted,AC Milan,44,Udinese,21
+TacklesUnsuccessful,AC Milan,13,Udinese,5
+TackleSuccess,AC Milan,70,Udinese,76
+Clearances,AC Milan,14,Udinese,33
+Interceptions,AC Milan,10,Udinese,7
+Errors,AC Milan,0,Udinese,0
+Fouls,AC Milan,14,Udinese,12
+Offsides,AC Milan,0,Udinese,0
+Rating,Cagliari,6.24,Juventus,7.21
+TotalShots,Cagliari,9,Juventus,17
+Possession,Cagliari,44.9,Juventus,55.1
+PassSuccess,Cagliari,78,Juventus,82
+DribblesWon,Cagliari,1,Juventus,7
+AerialsWon,Cagliari,21,Juventus,21
+TackleSuccessful,Cagliari,16,Juventus,11
+CornersTotal,Cagliari,3,Juventus,5
+Dispossessed,Cagliari,5,Juventus,10
+ShotsOnPost,Cagliari,0,Juventus,0
+ShotsOnTarget,Cagliari,0,Juventus,6
+ShotsOffTarget,Cagliari,5,Juventus,7
+ShotsBlocked,Cagliari,4,Juventus,4
+Touches,Cagliari,578,Juventus,677
+PassesTotal,Cagliari,412,Juventus,498
+PassesAccurate,Cagliari,322,Juventus,408
+KeyPasses,Cagliari,7,Juventus,14
+DribblesAttempted,Cagliari,7,Juventus,13
+DribblesPast,Cagliari,7,Juventus,1
+DribbleSuccess,Cagliari,14,Juventus,54
+OffensiveAerials,Cagliari,33,Juventus,9
+DefensiveAerials,Cagliari,9,Juventus,33
+AerialsWon,Cagliari,50,Juventus,50
+TacklesAttempted,Cagliari,23,Juventus,12
+TacklesUnsuccessful,Cagliari,7,Juventus,1
+TackleSuccess,Cagliari,70,Juventus,92
+Clearances,Cagliari,23,Juventus,11
+Interceptions,Cagliari,8,Juventus,7
+Errors,Cagliari,0,Juventus,0
+Fouls,Cagliari,17,Juventus,10
+Offsides,Cagliari,2,Juventus,3
+Rating,Empoli,6.94,Napoli,6.62
+TotalShots,Empoli,15,Napoli,14
+Possession,Empoli,37.5,Napoli,62.5
+PassSuccess,Empoli,81,Napoli,89
+DribblesWon,Empoli,7,Napoli,8
+AerialsWon,Empoli,10,Napoli,9
+TackleSuccessful,Empoli,19,Napoli,18
+CornersTotal,Empoli,8,Napoli,2
+Dispossessed,Empoli,12,Napoli,7
+ShotsOnPost,Empoli,0,Napoli,0
+ShotsOnTarget,Empoli,7,Napoli,5
+ShotsOffTarget,Empoli,5,Napoli,6
+ShotsBlocked,Empoli,3,Napoli,3
+Touches,Empoli,576,Napoli,858
+PassesTotal,Empoli,383,Napoli,652
+PassesAccurate,Empoli,311,Napoli,581
+KeyPasses,Empoli,12,Napoli,12
+DribblesAttempted,Empoli,13,Napoli,20
+DribblesPast,Empoli,8,Napoli,7
+DribbleSuccess,Empoli,54,Napoli,40
+OffensiveAerials,Empoli,7,Napoli,12
+DefensiveAerials,Empoli,12,Napoli,7
+AerialsWon,Empoli,53,Napoli,47
+TacklesAttempted,Empoli,27,Napoli,25
+TacklesUnsuccessful,Empoli,8,Napoli,7
+TackleSuccess,Empoli,70,Napoli,72
+Clearances,Empoli,23,Napoli,15
+Interceptions,Empoli,10,Napoli,7
+Errors,Empoli,0,Napoli,0
+Fouls,Empoli,13,Napoli,6
+Offsides,Empoli,0,Napoli,2
+Rating,Frosinone,6.75,Parma Calcio 1913,6.42
+TotalShots,Frosinone,21,Parma Calcio 1913,12
+Possession,Frosinone,61.3,Parma Calcio 1913,38.7
+PassSuccess,Frosinone,83,Parma Calcio 1913,70
+DribblesWon,Frosinone,3,Parma Calcio 1913,9
+AerialsWon,Frosinone,16,Parma Calcio 1913,17
+TackleSuccessful,Frosinone,13,Parma Calcio 1913,11
+CornersTotal,Frosinone,3,Parma Calcio 1913,3
+Dispossessed,Frosinone,9,Parma Calcio 1913,9
+ShotsOnPost,Frosinone,1,Parma Calcio 1913,0
+ShotsOnTarget,Frosinone,4,Parma Calcio 1913,4
+ShotsOffTarget,Frosinone,12,Parma Calcio 1913,7
+ShotsBlocked,Frosinone,5,Parma Calcio 1913,1
+Touches,Frosinone,654,Parma Calcio 1913,477
+PassesTotal,Frosinone,454,Parma Calcio 1913,302
+PassesAccurate,Frosinone,378,Parma Calcio 1913,212
+KeyPasses,Frosinone,11,Parma Calcio 1913,9
+DribblesAttempted,Frosinone,5,Parma Calcio 1913,13
+DribblesPast,Frosinone,9,Parma Calcio 1913,3
+DribbleSuccess,Frosinone,60,Parma Calcio 1913,69
+OffensiveAerials,Frosinone,23,Parma Calcio 1913,10
+DefensiveAerials,Frosinone,10,Parma Calcio 1913,23
+AerialsWon,Frosinone,48,Parma Calcio 1913,52
+TacklesAttempted,Frosinone,22,Parma Calcio 1913,14
+TacklesUnsuccessful,Frosinone,9,Parma Calcio 1913,3
+TackleSuccess,Frosinone,59,Parma Calcio 1913,79
+Clearances,Frosinone,17,Parma Calcio 1913,32
+Interceptions,Frosinone,6,Parma Calcio 1913,6
+Errors,Frosinone,1,Parma Calcio 1913,0
+Fouls,Frosinone,15,Parma Calcio 1913,19
+Offsides,Frosinone,2,Parma Calcio 1913,3
+Rating,Genoa,6.03,Inter,7.48
+TotalShots,Genoa,8,Inter,14
+Possession,Genoa,23.3,Inter,76.7
+PassSuccess,Genoa,75,Inter,93
+DribblesWon,Genoa,9,Inter,10
+AerialsWon,Genoa,8,Inter,11
+TackleSuccessful,Genoa,14,Inter,11
+CornersTotal,Genoa,1,Inter,6
+Dispossessed,Genoa,6,Inter,8
+ShotsOnPost,Genoa,0,Inter,1
+ShotsOnTarget,Genoa,2,Inter,7
+ShotsOffTarget,Genoa,3,Inter,5
+ShotsBlocked,Genoa,3,Inter,2
+Touches,Genoa,400,Inter,1032
+PassesTotal,Genoa,254,Inter,883
+PassesAccurate,Genoa,191,Inter,818
+KeyPasses,Genoa,8,Inter,14
+DribblesAttempted,Genoa,14,Inter,17
+DribblesPast,Genoa,10,Inter,9
+DribbleSuccess,Genoa,64,Inter,59
+OffensiveAerials,Genoa,13,Inter,6
+DefensiveAerials,Genoa,6,Inter,13
+AerialsWon,Genoa,42,Inter,58
+TacklesAttempted,Genoa,24,Inter,20
+TacklesUnsuccessful,Genoa,10,Inter,9
+TackleSuccess,Genoa,58,Inter,55
+Clearances,Genoa,19,Inter,5
+Interceptions,Genoa,14,Inter,6
+Errors,Genoa,0,Inter,0
+Fouls,Genoa,10,Inter,12
+Offsides,Genoa,1,Inter,3
+Rating,Roma,6.83,Fiorentina,6.82
+TotalShots,Roma,15,Fiorentina,12
+Possession,Roma,49,Fiorentina,51
+PassSuccess,Roma,78,Fiorentina,79
+DribblesWon,Roma,14,Fiorentina,7
+AerialsWon,Roma,20,Fiorentina,17
+TackleSuccessful,Roma,21,Fiorentina,18
+CornersTotal,Roma,4,Fiorentina,6
+Dispossessed,Roma,11,Fiorentina,14
+ShotsOnPost,Roma,0,Fiorentina,1
+ShotsOnTarget,Roma,4,Fiorentina,4
+ShotsOffTarget,Roma,8,Fiorentina,6
+ShotsBlocked,Roma,3,Fiorentina,2
+Touches,Roma,623,Fiorentina,634
+PassesTotal,Roma,401,Fiorentina,415
+PassesAccurate,Roma,314,Fiorentina,327
+KeyPasses,Roma,15,Fiorentina,10
+DribblesAttempted,Roma,21,Fiorentina,14
+DribblesPast,Roma,7,Fiorentina,14
+DribbleSuccess,Roma,67,Fiorentina,50
+OffensiveAerials,Roma,26,Fiorentina,11
+DefensiveAerials,Roma,11,Fiorentina,26
+AerialsWon,Roma,54,Fiorentina,46
+TacklesAttempted,Roma,28,Fiorentina,32
+TacklesUnsuccessful,Roma,7,Fiorentina,14
+TackleSuccess,Roma,75,Fiorentina,56
+Clearances,Roma,17,Fiorentina,18
+Interceptions,Roma,12,Fiorentina,22
+Errors,Roma,0,Fiorentina,0
+Fouls,Roma,15,Fiorentina,15
+Offsides,Roma,0,Fiorentina,1
+Rating,SPAL 2013,6.90,Lazio,6.37
+TotalShots,SPAL 2013,12,Lazio,11
+Possession,SPAL 2013,35,Lazio,65
+PassSuccess,SPAL 2013,76,Lazio,86
+DribblesWon,SPAL 2013,3,Lazio,6
+AerialsWon,SPAL 2013,13,Lazio,13
+TackleSuccessful,SPAL 2013,22,Lazio,11
+CornersTotal,SPAL 2013,2,Lazio,7
+Dispossessed,SPAL 2013,7,Lazio,15
+ShotsOnPost,SPAL 2013,0,Lazio,1
+ShotsOnTarget,SPAL 2013,4,Lazio,3
+ShotsOffTarget,SPAL 2013,6,Lazio,4
+ShotsBlocked,SPAL 2013,2,Lazio,4
+Touches,SPAL 2013,496,Lazio,753
+PassesTotal,SPAL 2013,302,Lazio,573
+PassesAccurate,SPAL 2013,231,Lazio,492
+KeyPasses,SPAL 2013,8,Lazio,10
+DribblesAttempted,SPAL 2013,7,Lazio,13
+DribblesPast,SPAL 2013,6,Lazio,3
+DribbleSuccess,SPAL 2013,43,Lazio,46
+OffensiveAerials,SPAL 2013,9,Lazio,17
+DefensiveAerials,SPAL 2013,17,Lazio,9
+AerialsWon,SPAL 2013,50,Lazio,50
+TacklesAttempted,SPAL 2013,28,Lazio,14
+TacklesUnsuccessful,SPAL 2013,6,Lazio,3
+TackleSuccess,SPAL 2013,79,Lazio,79
+Clearances,SPAL 2013,27,Lazio,12
+Interceptions,SPAL 2013,12,Lazio,6
+Errors,SPAL 2013,0,Lazio,0
+Fouls,SPAL 2013,10,Lazio,18
+Offsides,SPAL 2013,0,Lazio,5
+Rating,Torino,7.00,Sampdoria,6.43
+TotalShots,Torino,18,Sampdoria,8
+Possession,Torino,46,Sampdoria,54
+PassSuccess,Torino,68,Sampdoria,72
+DribblesWon,Torino,14,Sampdoria,7
+AerialsWon,Torino,21,Sampdoria,13
+TackleSuccessful,Torino,21,Sampdoria,19
+CornersTotal,Torino,6,Sampdoria,3
+Dispossessed,Torino,12,Sampdoria,10
+ShotsOnPost,Torino,0,Sampdoria,0
+ShotsOnTarget,Torino,6,Sampdoria,3
+ShotsOffTarget,Torino,10,Sampdoria,2
+ShotsBlocked,Torino,2,Sampdoria,3
+Touches,Torino,534,Sampdoria,573
+PassesTotal,Torino,314,Sampdoria,379
+PassesAccurate,Torino,215,Sampdoria,271
+KeyPasses,Torino,11,Sampdoria,4
+DribblesAttempted,Torino,21,Sampdoria,18
+DribblesPast,Torino,7,Sampdoria,14
+DribbleSuccess,Torino,67,Sampdoria,39
+OffensiveAerials,Torino,17,Sampdoria,17
+DefensiveAerials,Torino,17,Sampdoria,17
+AerialsWon,Torino,62,Sampdoria,38
+TacklesAttempted,Torino,28,Sampdoria,33
+TacklesUnsuccessful,Torino,7,Sampdoria,14
+TackleSuccess,Torino,75,Sampdoria,58
+Clearances,Torino,11,Sampdoria,26
+Interceptions,Torino,24,Sampdoria,7
+Errors,Torino,0,Sampdoria,0
+Fouls,Torino,12,Sampdoria,12
+Offsides,Torino,1,Sampdoria,0
+Rating,Sassuolo,7.47,Chievo,6.02
+TotalShots,Sassuolo,17,Chievo,9
+Possession,Sassuolo,56.7,Chievo,43.3
+PassSuccess,Sassuolo,85,Chievo,80
+DribblesWon,Sassuolo,18,Chievo,4
+AerialsWon,Sassuolo,11,Chievo,10
+TackleSuccessful,Sassuolo,4,Chievo,13
+CornersTotal,Sassuolo,5,Chievo,4
+Dispossessed,Sassuolo,5,Chievo,4
+ShotsOnPost,Sassuolo,0,Chievo,0
+ShotsOnTarget,Sassuolo,8,Chievo,5
+ShotsOffTarget,Sassuolo,5,Chievo,4
+ShotsBlocked,Sassuolo,4,Chievo,0
+Touches,Sassuolo,671,Chievo,541
+PassesTotal,Sassuolo,512,Chievo,388
+PassesAccurate,Sassuolo,433,Chievo,311
+KeyPasses,Sassuolo,7,Chievo,7
+DribblesAttempted,Sassuolo,26,Chievo,4
+DribblesPast,Sassuolo,4,Chievo,18
+DribbleSuccess,Sassuolo,69,Chievo,100
+OffensiveAerials,Sassuolo,10,Chievo,11
+DefensiveAerials,Sassuolo,11,Chievo,10
+AerialsWon,Sassuolo,52,Chievo,48
+TacklesAttempted,Sassuolo,8,Chievo,31
+TacklesUnsuccessful,Sassuolo,4,Chievo,18
+TackleSuccess,Sassuolo,50,Chievo,42
+Clearances,Sassuolo,12,Chievo,14
+Interceptions,Sassuolo,8,Chievo,13
+Errors,Sassuolo,0,Chievo,1
+Fouls,Sassuolo,14,Chievo,17
+Offsides,Sassuolo,1,Chievo,2
+Rating,Atalanta,7.46,Bologna,6.21
+TotalShots,Atalanta,20,Bologna,11
+Possession,Atalanta,51.2,Bologna,48.8
+PassSuccess,Atalanta,82,Bologna,82
+DribblesWon,Atalanta,13,Bologna,15
+AerialsWon,Atalanta,13,Bologna,7
+TackleSuccessful,Atalanta,34,Bologna,15
+CornersTotal,Atalanta,5,Bologna,4
+Dispossessed,Atalanta,9,Bologna,15
+ShotsOnPost,Atalanta,0,Bologna,0
+ShotsOnTarget,Atalanta,8,Bologna,4
+ShotsOffTarget,Atalanta,7,Bologna,4
+ShotsBlocked,Atalanta,5,Bologna,3
+Touches,Atalanta,732,Bologna,700
+PassesTotal,Atalanta,505,Bologna,475
+PassesAccurate,Atalanta,416,Bologna,389
+KeyPasses,Atalanta,18,Bologna,7
+DribblesAttempted,Atalanta,19,Bologna,34
+DribblesPast,Atalanta,15,Bologna,13
+DribbleSuccess,Atalanta,68,Bologna,44
+OffensiveAerials,Atalanta,9,Bologna,11
+DefensiveAerials,Atalanta,11,Bologna,9
+AerialsWon,Atalanta,65,Bologna,35
+TacklesAttempted,Atalanta,49,Bologna,28
+TacklesUnsuccessful,Atalanta,15,Bologna,13
+TackleSuccess,Atalanta,69,Bologna,54
+Clearances,Atalanta,13,Bologna,13
+Interceptions,Atalanta,18,Bologna,11
+Errors,Atalanta,0,Bologna,1
+Fouls,Atalanta,11,Bologna,13
+Offsides,Atalanta,1,Bologna,2
+Rating,Parma Calcio 1913,6.78,Torino,6.79
+TotalShots,Parma Calcio 1913,6,Torino,16
+Possession,Parma Calcio 1913,36.1,Torino,63.9
+PassSuccess,Parma Calcio 1913,67,Torino,81
+DribblesWon,Parma Calcio 1913,8,Torino,8
+AerialsWon,Parma Calcio 1913,22,Torino,23
+TackleSuccessful,Parma Calcio 1913,23,Torino,15
+CornersTotal,Parma Calcio 1913,3,Torino,4
+Dispossessed,Parma Calcio 1913,7,Torino,16
+ShotsOnPost,Parma Calcio 1913,0,Torino,0
+ShotsOnTarget,Parma Calcio 1913,1,Torino,4
+ShotsOffTarget,Parma Calcio 1913,4,Torino,9
+ShotsBlocked,Parma Calcio 1913,1,Torino,3
+Touches,Parma Calcio 1913,429,Torino,623
+PassesTotal,Parma Calcio 1913,235,Torino,424
+PassesAccurate,Parma Calcio 1913,158,Torino,345
+KeyPasses,Parma Calcio 1913,5,Torino,13
+DribblesAttempted,Parma Calcio 1913,16,Torino,15
+DribblesPast,Parma Calcio 1913,8,Torino,8
+DribbleSuccess,Parma Calcio 1913,50,Torino,53
+OffensiveAerials,Parma Calcio 1913,26,Torino,19
+DefensiveAerials,Parma Calcio 1913,19,Torino,26
+AerialsWon,Parma Calcio 1913,49,Torino,51
+TacklesAttempted,Parma Calcio 1913,31,Torino,23
+TacklesUnsuccessful,Parma Calcio 1913,8,Torino,8
+TackleSuccess,Parma Calcio 1913,74,Torino,65
+Clearances,Parma Calcio 1913,29,Torino,13
+Interceptions,Parma Calcio 1913,10,Torino,10
+Errors,Parma Calcio 1913,0,Torino,0
+Fouls,Parma Calcio 1913,20,Torino,20
+Offsides,Parma Calcio 1913,3,Torino,0
+Rating,Juventus,6.72,AC Milan,6.36
+TotalShots,Juventus,12,AC Milan,16
+Possession,Juventus,47.1,AC Milan,52.9
+PassSuccess,Juventus,82,AC Milan,85
+DribblesWon,Juventus,4,AC Milan,6
+AerialsWon,Juventus,19,AC Milan,11
+TackleSuccessful,Juventus,5,AC Milan,9
+CornersTotal,Juventus,5,AC Milan,8
+Dispossessed,Juventus,4,AC Milan,3
+ShotsOnPost,Juventus,0,AC Milan,0
+ShotsOnTarget,Juventus,5,AC Milan,4
+ShotsOffTarget,Juventus,5,AC Milan,7
+ShotsBlocked,Juventus,2,AC Milan,5
+Touches,Juventus,564,AC Milan,626
+PassesTotal,Juventus,402,AC Milan,450
+PassesAccurate,Juventus,328,AC Milan,384
+KeyPasses,Juventus,11,AC Milan,10
+DribblesAttempted,Juventus,9,AC Milan,8
+DribblesPast,Juventus,6,AC Milan,4
+DribbleSuccess,Juventus,44,AC Milan,75
+OffensiveAerials,Juventus,12,AC Milan,18
+DefensiveAerials,Juventus,18,AC Milan,12
+AerialsWon,Juventus,63,AC Milan,37
+TacklesAttempted,Juventus,11,AC Milan,13
+TacklesUnsuccessful,Juventus,6,AC Milan,4
+TackleSuccess,Juventus,45,AC Milan,69
+Clearances,Juventus,19,AC Milan,15
+Interceptions,Juventus,10,AC Milan,5
+Errors,Juventus,1,AC Milan,1
+Fouls,Juventus,21,AC Milan,15
+Offsides,Juventus,2,AC Milan,1
+Rating,Sampdoria,6.48,Roma,7.08
+TotalShots,Sampdoria,18,Roma,16
+Possession,Sampdoria,62.9,Roma,37.1
+PassSuccess,Sampdoria,86,Roma,77
+DribblesWon,Sampdoria,7,Roma,4
+AerialsWon,Sampdoria,16,Roma,22
+TackleSuccessful,Sampdoria,16,Roma,16
+CornersTotal,Sampdoria,8,Roma,3
+Dispossessed,Sampdoria,11,Roma,12
+ShotsOnPost,Sampdoria,0,Roma,0
+ShotsOnTarget,Sampdoria,2,Roma,4
+ShotsOffTarget,Sampdoria,9,Roma,5
+ShotsBlocked,Sampdoria,7,Roma,7
+Touches,Sampdoria,734,Roma,525
+PassesTotal,Sampdoria,553,Roma,325
+PassesAccurate,Sampdoria,476,Roma,249
+KeyPasses,Sampdoria,13,Roma,14
+DribblesAttempted,Sampdoria,12,Roma,8
+DribblesPast,Sampdoria,4,Roma,7
+DribbleSuccess,Sampdoria,58,Roma,50
+OffensiveAerials,Sampdoria,10,Roma,28
+DefensiveAerials,Sampdoria,28,Roma,10
+AerialsWon,Sampdoria,42,Roma,58
+TacklesAttempted,Sampdoria,20,Roma,23
+TacklesUnsuccessful,Sampdoria,4,Roma,7
+TackleSuccess,Sampdoria,80,Roma,70
+Clearances,Sampdoria,13,Roma,31
+Interceptions,Sampdoria,6,Roma,23
+Errors,Sampdoria,0,Roma,0
+Fouls,Sampdoria,12,Roma,11
+Offsides,Sampdoria,1,Roma,2
+Rating,Fiorentina,6.60,Frosinone,6.85
+TotalShots,Fiorentina,18,Frosinone,11
+Possession,Fiorentina,62.4,Frosinone,37.6
+PassSuccess,Fiorentina,78,Frosinone,63
+DribblesWon,Fiorentina,8,Frosinone,0
+AerialsWon,Fiorentina,22,Frosinone,19
+TackleSuccessful,Fiorentina,9,Frosinone,12
+CornersTotal,Fiorentina,10,Frosinone,7
+Dispossessed,Fiorentina,6,Frosinone,4
+ShotsOnPost,Fiorentina,1,Frosinone,0
+ShotsOnTarget,Fiorentina,4,Frosinone,3
+ShotsOffTarget,Fiorentina,13,Frosinone,4
+ShotsBlocked,Fiorentina,1,Frosinone,4
+Touches,Fiorentina,700,Frosinone,496
+PassesTotal,Fiorentina,481,Frosinone,296
+PassesAccurate,Fiorentina,376,Frosinone,186
+KeyPasses,Fiorentina,16,Frosinone,6
+DribblesAttempted,Fiorentina,14,Frosinone,5
+DribblesPast,Fiorentina,0,Frosinone,8
+DribbleSuccess,Fiorentina,57,Frosinone,0
+OffensiveAerials,Fiorentina,14,Frosinone,27
+DefensiveAerials,Fiorentina,27,Frosinone,14
+AerialsWon,Fiorentina,54,Frosinone,46
+TacklesAttempted,Fiorentina,9,Frosinone,20
+TacklesUnsuccessful,Fiorentina,0,Frosinone,8
+TackleSuccess,Fiorentina,100,Frosinone,60
+Clearances,Fiorentina,17,Frosinone,33
+Interceptions,Fiorentina,8,Frosinone,15
+Errors,Fiorentina,0,Frosinone,0
+Fouls,Fiorentina,19,Frosinone,16
+Offsides,Fiorentina,0,Frosinone,0
+Rating,Udinese,6.82,Empoli,6.43
+TotalShots,Udinese,17,Empoli,15
+Possession,Udinese,36.4,Empoli,63.6
+PassSuccess,Udinese,75,Empoli,87
+DribblesWon,Udinese,10,Empoli,9
+AerialsWon,Udinese,18,Empoli,6
+TackleSuccessful,Udinese,12,Empoli,13
+CornersTotal,Udinese,6,Empoli,6
+Dispossessed,Udinese,7,Empoli,6
+ShotsOnPost,Udinese,1,Empoli,0
+ShotsOnTarget,Udinese,5,Empoli,6
+ShotsOffTarget,Udinese,9,Empoli,5
+ShotsBlocked,Udinese,3,Empoli,4
+Touches,Udinese,480,Empoli,691
+PassesTotal,Udinese,303,Empoli,527
+PassesAccurate,Udinese,228,Empoli,458
+KeyPasses,Udinese,11,Empoli,12
+DribblesAttempted,Udinese,16,Empoli,15
+DribblesPast,Udinese,9,Empoli,10
+DribbleSuccess,Udinese,63,Empoli,60
+OffensiveAerials,Udinese,14,Empoli,10
+DefensiveAerials,Udinese,10,Empoli,14
+AerialsWon,Udinese,75,Empoli,25
+TacklesAttempted,Udinese,21,Empoli,23
+TacklesUnsuccessful,Udinese,9,Empoli,10
+TackleSuccess,Udinese,57,Empoli,57
+Clearances,Udinese,23,Empoli,11
+Interceptions,Udinese,10,Empoli,5
+Errors,Udinese,0,Empoli,1
+Fouls,Udinese,8,Empoli,9
+Offsides,Udinese,1,Empoli,0
+Rating,Cagliari,6.86,SPAL 2013,6.33
+TotalShots,Cagliari,16,SPAL 2013,7
+Possession,Cagliari,54.8,SPAL 2013,45.2
+PassSuccess,Cagliari,82,SPAL 2013,76
+DribblesWon,Cagliari,8,SPAL 2013,6
+AerialsWon,Cagliari,21,SPAL 2013,22
+TackleSuccessful,Cagliari,15,SPAL 2013,7
+CornersTotal,Cagliari,9,SPAL 2013,4
+Dispossessed,Cagliari,3,SPAL 2013,14
+ShotsOnPost,Cagliari,2,SPAL 2013,0
+ShotsOnTarget,Cagliari,9,SPAL 2013,2
+ShotsOffTarget,Cagliari,5,SPAL 2013,3
+ShotsBlocked,Cagliari,2,SPAL 2013,2
+Touches,Cagliari,674,SPAL 2013,596
+PassesTotal,Cagliari,483,SPAL 2013,406
+PassesAccurate,Cagliari,396,SPAL 2013,310
+KeyPasses,Cagliari,13,SPAL 2013,3
+DribblesAttempted,Cagliari,12,SPAL 2013,7
+DribblesPast,Cagliari,6,SPAL 2013,8
+DribbleSuccess,Cagliari,67,SPAL 2013,86
+OffensiveAerials,Cagliari,28,SPAL 2013,15
+DefensiveAerials,Cagliari,15,SPAL 2013,28
+AerialsWon,Cagliari,49,SPAL 2013,51
+TacklesAttempted,Cagliari,21,SPAL 2013,15
+TacklesUnsuccessful,Cagliari,6,SPAL 2013,8
+TackleSuccess,Cagliari,71,SPAL 2013,47
+Clearances,Cagliari,16,SPAL 2013,26
+Interceptions,Cagliari,9,SPAL 2013,8
+Errors,Cagliari,0,SPAL 2013,1
+Fouls,Cagliari,19,SPAL 2013,4
+Offsides,Cagliari,0,SPAL 2013,1
+Rating,Lazio,6.57,Sassuolo,6.73
+TotalShots,Lazio,22,Sassuolo,5
+Possession,Lazio,58,Sassuolo,42
+PassSuccess,Lazio,84,Sassuolo,79
+DribblesWon,Lazio,9,Sassuolo,8
+AerialsWon,Lazio,18,Sassuolo,16
+TackleSuccessful,Lazio,13,Sassuolo,17
+CornersTotal,Lazio,11,Sassuolo,1
+Dispossessed,Lazio,11,Sassuolo,4
+ShotsOnPost,Lazio,0,Sassuolo,0
+ShotsOnTarget,Lazio,7,Sassuolo,2
+ShotsOffTarget,Lazio,11,Sassuolo,1
+ShotsBlocked,Lazio,4,Sassuolo,2
+Touches,Lazio,680,Sassuolo,561
+PassesTotal,Lazio,501,Sassuolo,378
+PassesAccurate,Lazio,423,Sassuolo,297
+KeyPasses,Lazio,15,Sassuolo,3
+DribblesAttempted,Lazio,15,Sassuolo,17
+DribblesPast,Lazio,8,Sassuolo,9
+DribbleSuccess,Lazio,60,Sassuolo,47
+OffensiveAerials,Lazio,22,Sassuolo,12
+DefensiveAerials,Lazio,12,Sassuolo,22
+AerialsWon,Lazio,53,Sassuolo,47
+TacklesAttempted,Lazio,21,Sassuolo,26
+TacklesUnsuccessful,Lazio,8,Sassuolo,9
+TackleSuccess,Lazio,62,Sassuolo,65
+Clearances,Lazio,6,Sassuolo,43
+Interceptions,Lazio,7,Sassuolo,12
+Errors,Lazio,1,Sassuolo,0
+Fouls,Lazio,14,Sassuolo,9
+Offsides,Lazio,8,Sassuolo,1
+Rating,Inter,6.66,Atalanta,6.86
+TotalShots,Inter,10,Atalanta,9
+Possession,Inter,55,Atalanta,45
+PassSuccess,Inter,83,Atalanta,81
+DribblesWon,Inter,3,Atalanta,14
+AerialsWon,Inter,16,Atalanta,15
+TackleSuccessful,Inter,18,Atalanta,18
+CornersTotal,Inter,8,Atalanta,4
+Dispossessed,Inter,8,Atalanta,10
+ShotsOnPost,Inter,0,Atalanta,0
+ShotsOnTarget,Inter,4,Atalanta,0
+ShotsOffTarget,Inter,2,Atalanta,5
+ShotsBlocked,Inter,4,Atalanta,4
+Touches,Inter,710,Atalanta,638
+PassesTotal,Inter,512,Atalanta,423
+PassesAccurate,Inter,427,Atalanta,342
+KeyPasses,Inter,8,Atalanta,8
+DribblesAttempted,Inter,13,Atalanta,22
+DribblesPast,Inter,14,Atalanta,3
+DribbleSuccess,Inter,23,Atalanta,64
+OffensiveAerials,Inter,15,Atalanta,16
+DefensiveAerials,Inter,16,Atalanta,15
+AerialsWon,Inter,52,Atalanta,48
+TacklesAttempted,Inter,32,Atalanta,21
+TacklesUnsuccessful,Inter,14,Atalanta,3
+TackleSuccess,Inter,56,Atalanta,86
+Clearances,Inter,14,Atalanta,25
+Interceptions,Inter,6,Atalanta,13
+Errors,Inter,0,Atalanta,0
+Fouls,Inter,11,Atalanta,13
+Offsides,Inter,2,Atalanta,0
+Rating,Napoli,6.75,Genoa,6.74
+TotalShots,Napoli,23,Genoa,14
+Possession,Napoli,74.1,Genoa,25.9
+PassSuccess,Napoli,90,Genoa,68
+DribblesWon,Napoli,10,Genoa,6
+AerialsWon,Napoli,8,Genoa,16
+TackleSuccessful,Napoli,12,Genoa,8
+CornersTotal,Napoli,11,Genoa,6
+Dispossessed,Napoli,7,Genoa,8
+ShotsOnPost,Napoli,1,Genoa,1
+ShotsOnTarget,Napoli,9,Genoa,5
+ShotsOffTarget,Napoli,8,Genoa,7
+ShotsBlocked,Napoli,6,Genoa,2
+Touches,Napoli,896,Genoa,423
+PassesTotal,Napoli,694,Genoa,244
+PassesAccurate,Napoli,627,Genoa,167
+KeyPasses,Napoli,17,Genoa,9
+DribblesAttempted,Napoli,11,Genoa,10
+DribblesPast,Napoli,6,Genoa,10
+DribbleSuccess,Napoli,91,Genoa,60
+OffensiveAerials,Napoli,8,Genoa,16
+DefensiveAerials,Napoli,16,Genoa,8
+AerialsWon,Napoli,33,Genoa,67
+TacklesAttempted,Napoli,18,Genoa,18
+TacklesUnsuccessful,Napoli,6,Genoa,10
+TackleSuccess,Napoli,67,Genoa,44
+Clearances,Napoli,13,Genoa,35
+Interceptions,Napoli,8,Genoa,12
+Errors,Napoli,1,Genoa,0
+Fouls,Napoli,11,Genoa,10
+Offsides,Napoli,0,Genoa,0
+Rating,Bologna,7.25,Chievo,6.09
+TotalShots,Bologna,18,Chievo,8
+Possession,Bologna,65.2,Chievo,34.8
+PassSuccess,Bologna,86,Chievo,73
+DribblesWon,Bologna,10,Chievo,5
+AerialsWon,Bologna,16,Chievo,18
+TackleSuccessful,Bologna,17,Chievo,15
+CornersTotal,Bologna,6,Chievo,3
+Dispossessed,Bologna,7,Chievo,14
+ShotsOnPost,Bologna,0,Chievo,0
+ShotsOnTarget,Bologna,11,Chievo,2
+ShotsOffTarget,Bologna,3,Chievo,2
+ShotsBlocked,Bologna,4,Chievo,4
+Touches,Bologna,722,Chievo,460
+PassesTotal,Bologna,517,Chievo,277
+PassesAccurate,Bologna,443,Chievo,201
+KeyPasses,Bologna,11,Chievo,6
+DribblesAttempted,Bologna,18,Chievo,8
+DribblesPast,Bologna,5,Chievo,10
+DribbleSuccess,Bologna,56,Chievo,63
+OffensiveAerials,Bologna,16,Chievo,18
+DefensiveAerials,Bologna,18,Chievo,16
+AerialsWon,Bologna,47,Chievo,53
+TacklesAttempted,Bologna,22,Chievo,25
+TacklesUnsuccessful,Bologna,5,Chievo,10
+TackleSuccess,Bologna,77,Chievo,60
+Clearances,Bologna,9,Chievo,28
+Interceptions,Bologna,8,Chievo,11
+Errors,Bologna,0,Chievo,1
+Fouls,Bologna,10,Chievo,22
+Offsides,Bologna,3,Chievo,0
+Rating,SPAL 2013,6.74,Juventus,6.63
+TotalShots,SPAL 2013,16,Juventus,11
+Possession,SPAL 2013,42.4,Juventus,57.6
+PassSuccess,SPAL 2013,83,Juventus,90
+DribblesWon,SPAL 2013,8,Juventus,15
+AerialsWon,SPAL 2013,6,Juventus,12
+TackleSuccessful,SPAL 2013,16,Juventus,17
+CornersTotal,SPAL 2013,5,Juventus,4
+Dispossessed,SPAL 2013,15,Juventus,6
+ShotsOnPost,SPAL 2013,0,Juventus,0
+ShotsOnTarget,SPAL 2013,3,Juventus,3
+ShotsOffTarget,SPAL 2013,7,Juventus,2
+ShotsBlocked,SPAL 2013,6,Juventus,6
+Touches,SPAL 2013,543,Juventus,699
+PassesTotal,SPAL 2013,361,Juventus,506
+PassesAccurate,SPAL 2013,299,Juventus,453
+KeyPasses,SPAL 2013,10,Juventus,10
+DribblesAttempted,SPAL 2013,10,Juventus,25
+DribblesPast,SPAL 2013,15,Juventus,8
+DribbleSuccess,SPAL 2013,80,Juventus,60
+OffensiveAerials,SPAL 2013,9,Juventus,9
+DefensiveAerials,SPAL 2013,9,Juventus,9
+AerialsWon,SPAL 2013,33,Juventus,67
+TacklesAttempted,SPAL 2013,31,Juventus,25
+TacklesUnsuccessful,SPAL 2013,15,Juventus,8
+TackleSuccess,SPAL 2013,52,Juventus,68
+Clearances,SPAL 2013,17,Juventus,17
+Interceptions,SPAL 2013,9,Juventus,15
+Errors,SPAL 2013,0,Juventus,0
+Fouls,SPAL 2013,15,Juventus,14
+Offsides,SPAL 2013,0,Juventus,0
+Rating,Roma,6.96,Udinese,6.57
+TotalShots,Roma,16,Udinese,11
+Possession,Roma,53.8,Udinese,46.2
+PassSuccess,Roma,82,Udinese,77
+DribblesWon,Roma,7,Udinese,7
+AerialsWon,Roma,22,Udinese,20
+TackleSuccessful,Roma,9,Udinese,19
+CornersTotal,Roma,7,Udinese,6
+Dispossessed,Roma,14,Udinese,7
+ShotsOnPost,Roma,0,Udinese,1
+ShotsOnTarget,Roma,4,Udinese,2
+ShotsOffTarget,Roma,7,Udinese,5
+ShotsBlocked,Roma,5,Udinese,4
+Touches,Roma,638,Udinese,562
+PassesTotal,Roma,421,Udinese,367
+PassesAccurate,Roma,345,Udinese,282
+KeyPasses,Roma,14,Udinese,10
+DribblesAttempted,Roma,12,Udinese,9
+DribblesPast,Roma,7,Udinese,7
+DribbleSuccess,Roma,58,Udinese,78
+OffensiveAerials,Roma,25,Udinese,16
+DefensiveAerials,Roma,17,Udinese,26
+AerialsWon,Roma,52,Udinese,48
+TacklesAttempted,Roma,16,Udinese,26
+TacklesUnsuccessful,Roma,7,Udinese,7
+TackleSuccess,Roma,56,Udinese,73
+Clearances,Roma,15,Udinese,32
+Interceptions,Roma,11,Udinese,8
+Errors,Roma,0,Udinese,0
+Fouls,Roma,11,Udinese,13
+Offsides,Roma,2,Udinese,3
+Rating,AC Milan,7.05,Lazio,6.54
+TotalShots,AC Milan,19,Lazio,12
+Possession,AC Milan,54.3,Lazio,45.7
+PassSuccess,AC Milan,87,Lazio,79
+DribblesWon,AC Milan,9,Lazio,6
+AerialsWon,AC Milan,13,Lazio,20
+TackleSuccessful,AC Milan,19,Lazio,18
+CornersTotal,AC Milan,11,Lazio,4
+Dispossessed,AC Milan,9,Lazio,8
+ShotsOnPost,AC Milan,0,Lazio,1
+ShotsOnTarget,AC Milan,5,Lazio,4
+ShotsOffTarget,AC Milan,5,Lazio,5
+ShotsBlocked,AC Milan,9,Lazio,3
+Touches,AC Milan,711,Lazio,618
+PassesTotal,AC Milan,491,Lazio,411
+PassesAccurate,AC Milan,427,Lazio,326
+KeyPasses,AC Milan,17,Lazio,11
+DribblesAttempted,AC Milan,18,Lazio,17
+DribblesPast,AC Milan,6,Lazio,9
+DribbleSuccess,AC Milan,50,Lazio,35
+OffensiveAerials,AC Milan,16,Lazio,17
+DefensiveAerials,AC Milan,17,Lazio,16
+AerialsWon,AC Milan,39,Lazio,61
+TacklesAttempted,AC Milan,25,Lazio,27
+TacklesUnsuccessful,AC Milan,6,Lazio,9
+TackleSuccess,AC Milan,76,Lazio,67
+Clearances,AC Milan,17,Lazio,16
+Interceptions,AC Milan,13,Lazio,7
+Errors,AC Milan,0,Lazio,0
+Fouls,AC Milan,13,Lazio,17
+Offsides,AC Milan,2,Lazio,5
+Rating,Torino,6.71,Cagliari,6.54
+TotalShots,Torino,15,Cagliari,13
+Possession,Torino,44.6,Cagliari,55.4
+PassSuccess,Torino,75,Cagliari,75
+DribblesWon,Torino,10,Cagliari,5
+AerialsWon,Torino,27,Cagliari,34
+TackleSuccessful,Torino,14,Cagliari,17
+CornersTotal,Torino,6,Cagliari,6
+Dispossessed,Torino,9,Cagliari,10
+ShotsOnPost,Torino,0,Cagliari,1
+ShotsOnTarget,Torino,7,Cagliari,4
+ShotsOffTarget,Torino,7,Cagliari,8
+ShotsBlocked,Torino,1,Cagliari,1
+Touches,Torino,517,Cagliari,585
+PassesTotal,Torino,313,Cagliari,403
+PassesAccurate,Torino,234,Cagliari,302
+KeyPasses,Torino,10,Cagliari,12
+DribblesAttempted,Torino,18,Cagliari,9
+DribblesPast,Torino,5,Cagliari,10
+DribbleSuccess,Torino,56,Cagliari,56
+OffensiveAerials,Torino,29,Cagliari,32
+DefensiveAerials,Torino,32,Cagliari,29
+AerialsWon,Torino,44,Cagliari,56
+TacklesAttempted,Torino,19,Cagliari,27
+TacklesUnsuccessful,Torino,5,Cagliari,10
+TackleSuccess,Torino,74,Cagliari,63
+Clearances,Torino,13,Cagliari,18
+Interceptions,Torino,12,Cagliari,5
+Errors,Torino,0,Cagliari,0
+Fouls,Torino,13,Cagliari,20
+Offsides,Torino,1,Cagliari,0
+Rating,Sampdoria,7.03,Genoa,6.08
+TotalShots,Sampdoria,14,Genoa,13
+Possession,Sampdoria,56.1,Genoa,43.9
+PassSuccess,Sampdoria,75,Genoa,69
+DribblesWon,Sampdoria,2,Genoa,3
+AerialsWon,Sampdoria,22,Genoa,24
+TackleSuccessful,Sampdoria,11,Genoa,7
+CornersTotal,Sampdoria,3,Genoa,8
+Dispossessed,Sampdoria,6,Genoa,8
+ShotsOnPost,Sampdoria,1,Genoa,0
+ShotsOnTarget,Sampdoria,4,Genoa,2
+ShotsOffTarget,Sampdoria,7,Genoa,7
+ShotsBlocked,Sampdoria,3,Genoa,4
+Touches,Sampdoria,611,Genoa,485
+PassesTotal,Sampdoria,427,Genoa,321
+PassesAccurate,Sampdoria,320,Genoa,220
+KeyPasses,Sampdoria,8,Genoa,9
+DribblesAttempted,Sampdoria,3,Genoa,6
+DribblesPast,Sampdoria,3,Genoa,2
+DribbleSuccess,Sampdoria,67,Genoa,50
+OffensiveAerials,Sampdoria,18,Genoa,27
+DefensiveAerials,Sampdoria,28,Genoa,19
+AerialsWon,Sampdoria,48,Genoa,52
+TacklesAttempted,Sampdoria,14,Genoa,9
+TacklesUnsuccessful,Sampdoria,3,Genoa,2
+TackleSuccess,Sampdoria,79,Genoa,78
+Clearances,Sampdoria,35,Genoa,16
+Interceptions,Sampdoria,7,Genoa,7
+Errors,Sampdoria,0,Genoa,0
+Fouls,Sampdoria,15,Genoa,22
+Offsides,Sampdoria,0,Genoa,7
+Rating,Sassuolo,6.93,Parma Calcio 1913,6.58
+TotalShots,Sassuolo,20,Parma Calcio 1913,3
+Possession,Sassuolo,72.1,Parma Calcio 1913,27.9
+PassSuccess,Sassuolo,86,Parma Calcio 1913,62
+DribblesWon,Sassuolo,16,Parma Calcio 1913,7
+AerialsWon,Sassuolo,21,Parma Calcio 1913,17
+TackleSuccessful,Sassuolo,15,Parma Calcio 1913,15
+CornersTotal,Sassuolo,7,Parma Calcio 1913,3
+Dispossessed,Sassuolo,10,Parma Calcio 1913,13
+ShotsOnPost,Sassuolo,1,Parma Calcio 1913,0
+ShotsOnTarget,Sassuolo,6,Parma Calcio 1913,1
+ShotsOffTarget,Sassuolo,9,Parma Calcio 1913,2
+ShotsBlocked,Sassuolo,5,Parma Calcio 1913,0
+Touches,Sassuolo,848,Parma Calcio 1913,419
+PassesTotal,Sassuolo,661,Parma Calcio 1913,249
+PassesAccurate,Sassuolo,570,Parma Calcio 1913,155
+KeyPasses,Sassuolo,15,Parma Calcio 1913,0
+DribblesAttempted,Sassuolo,21,Parma Calcio 1913,9
+DribblesPast,Sassuolo,7,Parma Calcio 1913,16
+DribbleSuccess,Sassuolo,76,Parma Calcio 1913,78
+OffensiveAerials,Sassuolo,13,Parma Calcio 1913,25
+DefensiveAerials,Sassuolo,25,Parma Calcio 1913,13
+AerialsWon,Sassuolo,55,Parma Calcio 1913,45
+TacklesAttempted,Sassuolo,22,Parma Calcio 1913,31
+TacklesUnsuccessful,Sassuolo,7,Parma Calcio 1913,16
+TackleSuccess,Sassuolo,68,Parma Calcio 1913,48
+Clearances,Sassuolo,12,Parma Calcio 1913,31
+Interceptions,Sassuolo,11,Parma Calcio 1913,8
+Errors,Sassuolo,0,Parma Calcio 1913,2
+Fouls,Sassuolo,6,Parma Calcio 1913,11
+Offsides,Sassuolo,1,Parma Calcio 1913,6
+Rating,Fiorentina,6.66,Bologna,6.80
+TotalShots,Fiorentina,15,Bologna,4
+Possession,Fiorentina,57.4,Bologna,42.6
+PassSuccess,Fiorentina,78,Bologna,76
+DribblesWon,Fiorentina,9,Bologna,9
+AerialsWon,Fiorentina,19,Bologna,24
+TackleSuccessful,Fiorentina,15,Bologna,16
+CornersTotal,Fiorentina,10,Bologna,5
+Dispossessed,Fiorentina,10,Bologna,7
+ShotsOnPost,Fiorentina,0,Bologna,0
+ShotsOnTarget,Fiorentina,6,Bologna,1
+ShotsOffTarget,Fiorentina,7,Bologna,2
+ShotsBlocked,Fiorentina,2,Bologna,1
+Touches,Fiorentina,677,Bologna,581
+PassesTotal,Fiorentina,467,Bologna,350
+PassesAccurate,Fiorentina,366,Bologna,266
+KeyPasses,Fiorentina,10,Bologna,1
+DribblesAttempted,Fiorentina,15,Bologna,17
+DribblesPast,Fiorentina,9,Bologna,9
+DribbleSuccess,Fiorentina,60,Bologna,53
+OffensiveAerials,Fiorentina,31,Bologna,12
+DefensiveAerials,Fiorentina,12,Bologna,31
+AerialsWon,Fiorentina,44,Bologna,56
+TacklesAttempted,Fiorentina,24,Bologna,25
+TacklesUnsuccessful,Fiorentina,9,Bologna,9
+TackleSuccess,Fiorentina,63,Bologna,64
+Clearances,Fiorentina,14,Bologna,51
+Interceptions,Fiorentina,4,Bologna,7
+Errors,Fiorentina,0,Bologna,1
+Fouls,Fiorentina,17,Bologna,13
+Offsides,Fiorentina,1,Bologna,2
+Rating,Chievo,6.31,Napoli,7.00
+TotalShots,Chievo,7,Napoli,14
+Possession,Chievo,30.8,Napoli,69.2
+PassSuccess,Chievo,78,Napoli,90
+DribblesWon,Chievo,4,Napoli,9
+AerialsWon,Chievo,14,Napoli,13
+TackleSuccessful,Chievo,15,Napoli,10
+CornersTotal,Chievo,3,Napoli,7
+Dispossessed,Chievo,8,Napoli,10
+ShotsOnPost,Chievo,0,Napoli,0
+ShotsOnTarget,Chievo,4,Napoli,5
+ShotsOffTarget,Chievo,1,Napoli,7
+ShotsBlocked,Chievo,2,Napoli,2
+Touches,Chievo,497,Napoli,941
+PassesTotal,Chievo,343,Napoli,783
+PassesAccurate,Chievo,267,Napoli,704
+KeyPasses,Chievo,6,Napoli,12
+DribblesAttempted,Chievo,6,Napoli,14
+DribblesPast,Chievo,9,Napoli,4
+DribbleSuccess,Chievo,67,Napoli,64
+OffensiveAerials,Chievo,18,Napoli,9
+DefensiveAerials,Chievo,9,Napoli,18
+AerialsWon,Chievo,52,Napoli,48
+TacklesAttempted,Chievo,24,Napoli,14
+TacklesUnsuccessful,Chievo,9,Napoli,4
+TackleSuccess,Chievo,63,Napoli,71
+Clearances,Chievo,16,Napoli,14
+Interceptions,Chievo,8,Napoli,7
+Errors,Chievo,0,Napoli,0
+Fouls,Chievo,9,Napoli,10
+Offsides,Chievo,2,Napoli,1
+Rating,Frosinone,6.27,Inter,6.97
+TotalShots,Frosinone,14,Inter,19
+Possession,Frosinone,29.4,Inter,70.6
+PassSuccess,Frosinone,70,Inter,89
+DribblesWon,Frosinone,9,Inter,11
+AerialsWon,Frosinone,13,Inter,13
+TackleSuccessful,Frosinone,11,Inter,19
+CornersTotal,Frosinone,1,Inter,3
+Dispossessed,Frosinone,12,Inter,5
+ShotsOnPost,Frosinone,0,Inter,0
+ShotsOnTarget,Frosinone,4,Inter,6
+ShotsOffTarget,Frosinone,7,Inter,5
+ShotsBlocked,Frosinone,3,Inter,8
+Touches,Frosinone,448,Inter,871
+PassesTotal,Frosinone,272,Inter,689
+PassesAccurate,Frosinone,191,Inter,610
+KeyPasses,Frosinone,9,Inter,13
+DribblesAttempted,Frosinone,16,Inter,17
+DribblesPast,Frosinone,11,Inter,9
+DribbleSuccess,Frosinone,56,Inter,65
+OffensiveAerials,Frosinone,17,Inter,9
+DefensiveAerials,Frosinone,9,Inter,17
+AerialsWon,Frosinone,50,Inter,50
+TacklesAttempted,Frosinone,22,Inter,28
+TacklesUnsuccessful,Frosinone,11,Inter,9
+TackleSuccess,Frosinone,50,Inter,68
+Clearances,Frosinone,11,Inter,17
+Interceptions,Frosinone,13,Inter,4
+Errors,Frosinone,2,Inter,1
+Fouls,Frosinone,19,Inter,17
+Offsides,Frosinone,1,Inter,3
+Rating,Atalanta,7.07,Empoli,6.89
+TotalShots,Atalanta,47,Empoli,3
+Possession,Atalanta,61.5,Empoli,38.5
+PassSuccess,Atalanta,88,Empoli,77
+DribblesWon,Atalanta,10,Empoli,5
+AerialsWon,Atalanta,17,Empoli,11
+TackleSuccessful,Atalanta,12,Empoli,18
+CornersTotal,Atalanta,9,Empoli,3
+Dispossessed,Atalanta,9,Empoli,6
+ShotsOnPost,Atalanta,0,Empoli,0
+ShotsOnTarget,Atalanta,18,Empoli,1
+ShotsOffTarget,Atalanta,18,Empoli,2
+ShotsBlocked,Atalanta,11,Empoli,0
+Touches,Atalanta,780,Empoli,564
+PassesTotal,Atalanta,569,Empoli,364
+PassesAccurate,Atalanta,501,Empoli,279
+KeyPasses,Atalanta,38,Empoli,1
+DribblesAttempted,Atalanta,19,Empoli,11
+DribblesPast,Atalanta,5,Empoli,10
+DribbleSuccess,Atalanta,53,Empoli,45
+OffensiveAerials,Atalanta,15,Empoli,13
+DefensiveAerials,Atalanta,13,Empoli,15
+AerialsWon,Atalanta,61,Empoli,39
+TacklesAttempted,Atalanta,17,Empoli,28
+TacklesUnsuccessful,Atalanta,5,Empoli,10
+TackleSuccess,Atalanta,71,Empoli,64
+Clearances,Atalanta,12,Empoli,30
+Interceptions,Atalanta,8,Empoli,12
+Errors,Atalanta,0,Empoli,2
+Fouls,Atalanta,6,Empoli,11
+Offsides,Atalanta,1,Empoli,5
+Rating,Lazio,7.19,Udinese,6.32
+TotalShots,Lazio,18,Udinese,19
+Possession,Lazio,55.1,Udinese,44.9
+PassSuccess,Lazio,84,Udinese,86
+DribblesWon,Lazio,5,Udinese,8
+AerialsWon,Lazio,16,Udinese,15
+TackleSuccessful,Lazio,17,Udinese,7
+CornersTotal,Lazio,4,Udinese,5
+Dispossessed,Lazio,4,Udinese,12
+ShotsOnPost,Lazio,0,Udinese,1
+ShotsOnTarget,Lazio,7,Udinese,3
+ShotsOffTarget,Lazio,9,Udinese,8
+ShotsBlocked,Lazio,2,Udinese,8
+Touches,Lazio,693,Udinese,609
+PassesTotal,Lazio,511,Udinese,418
+PassesAccurate,Lazio,429,Udinese,359
+KeyPasses,Lazio,15,Udinese,12
+DribblesAttempted,Lazio,8,Udinese,13
+DribblesPast,Lazio,8,Udinese,5
+DribbleSuccess,Lazio,63,Udinese,62
+OffensiveAerials,Lazio,20,Udinese,11
+DefensiveAerials,Lazio,11,Udinese,20
+AerialsWon,Lazio,52,Udinese,48
+TacklesAttempted,Lazio,25,Udinese,12
+TacklesUnsuccessful,Lazio,8,Udinese,5
+TackleSuccess,Lazio,68,Udinese,58
+Clearances,Lazio,13,Udinese,22
+Interceptions,Lazio,14,Udinese,8
+Errors,Lazio,0,Udinese,1
+Fouls,Lazio,13,Udinese,16
+Offsides,Lazio,2,Udinese,1
+Rating,Parma Calcio 1913,6.60,AC Milan,6.68
+TotalShots,Parma Calcio 1913,12,AC Milan,15
+Possession,Parma Calcio 1913,41.5,AC Milan,58.5
+PassSuccess,Parma Calcio 1913,79,AC Milan,89
+DribblesWon,Parma Calcio 1913,9,AC Milan,3
+AerialsWon,Parma Calcio 1913,22,AC Milan,22
+TackleSuccessful,Parma Calcio 1913,12,AC Milan,18
+CornersTotal,Parma Calcio 1913,8,AC Milan,4
+Dispossessed,Parma Calcio 1913,12,AC Milan,5
+ShotsOnPost,Parma Calcio 1913,1,AC Milan,0
+ShotsOnTarget,Parma Calcio 1913,1,AC Milan,3
+ShotsOffTarget,Parma Calcio 1913,9,AC Milan,6
+ShotsBlocked,Parma Calcio 1913,2,AC Milan,6
+Touches,Parma Calcio 1913,509,AC Milan,660
+PassesTotal,Parma Calcio 1913,326,AC Milan,484
+PassesAccurate,Parma Calcio 1913,258,AC Milan,430
+KeyPasses,Parma Calcio 1913,8,AC Milan,14
+DribblesAttempted,Parma Calcio 1913,16,AC Milan,10
+DribblesPast,Parma Calcio 1913,3,AC Milan,9
+DribbleSuccess,Parma Calcio 1913,56,AC Milan,30
+OffensiveAerials,Parma Calcio 1913,30,AC Milan,14
+DefensiveAerials,Parma Calcio 1913,14,AC Milan,30
+AerialsWon,Parma Calcio 1913,50,AC Milan,50
+TacklesAttempted,Parma Calcio 1913,15,AC Milan,27
+TacklesUnsuccessful,Parma Calcio 1913,3,AC Milan,9
+TackleSuccess,Parma Calcio 1913,80,AC Milan,67
+Clearances,Parma Calcio 1913,16,AC Milan,31
+Interceptions,Parma Calcio 1913,7,AC Milan,4
+Errors,Parma Calcio 1913,0,AC Milan,1
+Fouls,Parma Calcio 1913,13,AC Milan,13
+Offsides,Parma Calcio 1913,5,AC Milan,4
+Rating,Udinese,6.46,Sassuolo,6.63
+TotalShots,Udinese,14,Sassuolo,10
+Possession,Udinese,44.8,Sassuolo,55.2
+PassSuccess,Udinese,76,Sassuolo,82
+DribblesWon,Udinese,13,Sassuolo,8
+AerialsWon,Udinese,20,Sassuolo,16
+TackleSuccessful,Udinese,12,Sassuolo,19
+CornersTotal,Udinese,6,Sassuolo,5
+Dispossessed,Udinese,14,Sassuolo,9
+ShotsOnPost,Udinese,0,Sassuolo,0
+ShotsOnTarget,Udinese,4,Sassuolo,2
+ShotsOffTarget,Udinese,7,Sassuolo,5
+ShotsBlocked,Udinese,3,Sassuolo,3
+Touches,Udinese,539,Sassuolo,630
+PassesTotal,Udinese,340,Sassuolo,433
+PassesAccurate,Udinese,257,Sassuolo,355
+KeyPasses,Udinese,10,Sassuolo,6
+DribblesAttempted,Udinese,18,Sassuolo,11
+DribblesPast,Udinese,8,Sassuolo,13
+DribbleSuccess,Udinese,72,Sassuolo,73
+OffensiveAerials,Udinese,26,Sassuolo,10
+DefensiveAerials,Udinese,10,Sassuolo,26
+AerialsWon,Udinese,56,Sassuolo,44
+TacklesAttempted,Udinese,20,Sassuolo,32
+TacklesUnsuccessful,Udinese,8,Sassuolo,13
+TackleSuccess,Udinese,60,Sassuolo,59
+Clearances,Udinese,11,Sassuolo,29
+Interceptions,Udinese,11,Sassuolo,7
+Errors,Udinese,2,Sassuolo,1
+Fouls,Udinese,20,Sassuolo,15
+Offsides,Udinese,3,Sassuolo,2
+Rating,Lazio,6.65,Chievo,6.95
+TotalShots,Lazio,25,Chievo,10
+Possession,Lazio,53.8,Chievo,46.2
+PassSuccess,Lazio,81,Chievo,78
+DribblesWon,Lazio,14,Chievo,10
+AerialsWon,Lazio,25,Chievo,21
+TackleSuccessful,Lazio,15,Chievo,15
+CornersTotal,Lazio,13,Chievo,2
+Dispossessed,Lazio,10,Chievo,6
+ShotsOnPost,Lazio,1,Chievo,0
+ShotsOnTarget,Lazio,4,Chievo,7
+ShotsOffTarget,Lazio,11,Chievo,3
+ShotsBlocked,Lazio,10,Chievo,0
+Touches,Lazio,632,Chievo,562
+PassesTotal,Lazio,436,Chievo,383
+PassesAccurate,Lazio,352,Chievo,299
+KeyPasses,Lazio,17,Chievo,9
+DribblesAttempted,Lazio,19,Chievo,19
+DribblesPast,Lazio,10,Chievo,14
+DribbleSuccess,Lazio,74,Chievo,53
+OffensiveAerials,Lazio,26,Chievo,20
+DefensiveAerials,Lazio,20,Chievo,26
+AerialsWon,Lazio,54,Chievo,46
+TacklesAttempted,Lazio,25,Chievo,29
+TacklesUnsuccessful,Lazio,10,Chievo,14
+TackleSuccess,Lazio,60,Chievo,52
+Clearances,Lazio,10,Chievo,38
+Interceptions,Lazio,7,Chievo,7
+Errors,Lazio,0,Chievo,0
+Fouls,Lazio,8,Chievo,21
+Offsides,Lazio,0,Chievo,2
+Rating,Bologna,7.11,Sampdoria,6.06
+TotalShots,Bologna,11,Sampdoria,11
+Possession,Bologna,36.9,Sampdoria,63.1
+PassSuccess,Bologna,73,Sampdoria,85
+DribblesWon,Bologna,8,Sampdoria,12
+AerialsWon,Bologna,8,Sampdoria,9
+TackleSuccessful,Bologna,28,Sampdoria,15
+CornersTotal,Bologna,3,Sampdoria,4
+Dispossessed,Bologna,8,Sampdoria,21
+ShotsOnPost,Bologna,0,Sampdoria,0
+ShotsOnTarget,Bologna,5,Sampdoria,2
+ShotsOffTarget,Bologna,5,Sampdoria,6
+ShotsBlocked,Bologna,1,Sampdoria,3
+Touches,Bologna,481,Sampdoria,680
+PassesTotal,Bologna,274,Sampdoria,488
+PassesAccurate,Bologna,201,Sampdoria,413
+KeyPasses,Bologna,7,Sampdoria,8
+DribblesAttempted,Bologna,15,Sampdoria,19
+DribblesPast,Bologna,12,Sampdoria,8
+DribbleSuccess,Bologna,53,Sampdoria,63
+OffensiveAerials,Bologna,7,Sampdoria,10
+DefensiveAerials,Bologna,10,Sampdoria,7
+AerialsWon,Bologna,47,Sampdoria,53
+TacklesAttempted,Bologna,40,Sampdoria,23
+TacklesUnsuccessful,Bologna,12,Sampdoria,8
+TackleSuccess,Bologna,70,Sampdoria,65
+Clearances,Bologna,16,Sampdoria,13
+Interceptions,Bologna,10,Sampdoria,6
+Errors,Bologna,0,Sampdoria,2
+Fouls,Bologna,18,Sampdoria,12
+Offsides,Bologna,7,Sampdoria,1
+Rating,Cagliari,6.86,Frosinone,6.37
+TotalShots,Cagliari,12,Frosinone,13
+Possession,Cagliari,54.8,Frosinone,45.2
+PassSuccess,Cagliari,81,Frosinone,75
+DribblesWon,Cagliari,7,Frosinone,3
+AerialsWon,Cagliari,24,Frosinone,23
+TackleSuccessful,Cagliari,19,Frosinone,14
+CornersTotal,Cagliari,5,Frosinone,6
+Dispossessed,Cagliari,10,Frosinone,12
+ShotsOnPost,Cagliari,0,Frosinone,0
+ShotsOnTarget,Cagliari,5,Frosinone,1
+ShotsOffTarget,Cagliari,6,Frosinone,9
+ShotsBlocked,Cagliari,1,Frosinone,3
+Touches,Cagliari,687,Frosinone,584
+PassesTotal,Cagliari,480,Frosinone,378
+PassesAccurate,Cagliari,387,Frosinone,282
+KeyPasses,Cagliari,9,Frosinone,11
+DribblesAttempted,Cagliari,11,Frosinone,10
+DribblesPast,Cagliari,3,Frosinone,7
+DribbleSuccess,Cagliari,64,Frosinone,30
+OffensiveAerials,Cagliari,28,Frosinone,19
+DefensiveAerials,Cagliari,19,Frosinone,28
+AerialsWon,Cagliari,51,Frosinone,49
+TacklesAttempted,Cagliari,22,Frosinone,21
+TacklesUnsuccessful,Cagliari,3,Frosinone,7
+TackleSuccess,Cagliari,86,Frosinone,67
+Clearances,Cagliari,24,Frosinone,19
+Interceptions,Cagliari,7,Frosinone,4
+Errors,Cagliari,0,Frosinone,0
+Fouls,Cagliari,20,Frosinone,16
+Offsides,Cagliari,0,Frosinone,3
+Rating,Empoli,6.47,SPAL 2013,6.93
+TotalShots,Empoli,16,SPAL 2013,14
+Possession,Empoli,57.5,SPAL 2013,42.5
+PassSuccess,Empoli,86,SPAL 2013,81
+DribblesWon,Empoli,8,SPAL 2013,11
+AerialsWon,Empoli,9,SPAL 2013,7
+TackleSuccessful,Empoli,18,SPAL 2013,15
+CornersTotal,Empoli,3,SPAL 2013,6
+Dispossessed,Empoli,9,SPAL 2013,11
+ShotsOnPost,Empoli,0,SPAL 2013,0
+ShotsOnTarget,Empoli,5,SPAL 2013,7
+ShotsOffTarget,Empoli,7,SPAL 2013,3
+ShotsBlocked,Empoli,4,SPAL 2013,4
+Touches,Empoli,643,SPAL 2013,526
+PassesTotal,Empoli,461,SPAL 2013,332
+PassesAccurate,Empoli,395,SPAL 2013,268
+KeyPasses,Empoli,13,SPAL 2013,9
+DribblesAttempted,Empoli,14,SPAL 2013,18
+DribblesPast,Empoli,11,SPAL 2013,8
+DribbleSuccess,Empoli,57,SPAL 2013,61
+OffensiveAerials,Empoli,5,SPAL 2013,11
+DefensiveAerials,Empoli,11,SPAL 2013,5
+AerialsWon,Empoli,56,SPAL 2013,44
+TacklesAttempted,Empoli,29,SPAL 2013,23
+TacklesUnsuccessful,Empoli,11,SPAL 2013,8
+TackleSuccess,Empoli,62,SPAL 2013,65
+Clearances,Empoli,15,SPAL 2013,19
+Interceptions,Empoli,9,SPAL 2013,8
+Errors,Empoli,0,SPAL 2013,1
+Fouls,Empoli,17,SPAL 2013,14
+Offsides,Empoli,2,SPAL 2013,1
+Rating,Genoa,6.49,Torino,6.93
+TotalShots,Genoa,12,Torino,9
+Possession,Genoa,47.5,Torino,52.5
+PassSuccess,Genoa,68,Torino,75
+DribblesWon,Genoa,4,Torino,7
+AerialsWon,Genoa,35,Torino,25
+TackleSuccessful,Genoa,22,Torino,15
+CornersTotal,Genoa,3,Torino,2
+Dispossessed,Genoa,9,Torino,10
+ShotsOnPost,Genoa,0,Torino,0
+ShotsOnTarget,Genoa,4,Torino,3
+ShotsOffTarget,Genoa,4,Torino,4
+ShotsBlocked,Genoa,4,Torino,2
+Touches,Genoa,550,Torino,612
+PassesTotal,Genoa,355,Torino,402
+PassesAccurate,Genoa,241,Torino,300
+KeyPasses,Genoa,9,Torino,7
+DribblesAttempted,Genoa,10,Torino,19
+DribblesPast,Genoa,7,Torino,4
+DribbleSuccess,Genoa,40,Torino,37
+OffensiveAerials,Genoa,38,Torino,22
+DefensiveAerials,Genoa,22,Torino,38
+AerialsWon,Genoa,58,Torino,42
+TacklesAttempted,Genoa,29,Torino,19
+TacklesUnsuccessful,Genoa,7,Torino,4
+TackleSuccess,Genoa,76,Torino,79
+Clearances,Genoa,10,Torino,20
+Interceptions,Genoa,5,Torino,8
+Errors,Genoa,0,Torino,0
+Fouls,Genoa,21,Torino,24
+Offsides,Genoa,2,Torino,1
+Rating,Juventus,6.90,Fiorentina,6.55
+TotalShots,Juventus,18,Fiorentina,13
+Possession,Juventus,60.8,Fiorentina,39.2
+PassSuccess,Juventus,90,Fiorentina,86
+DribblesWon,Juventus,13,Fiorentina,7
+AerialsWon,Juventus,12,Fiorentina,14
+TackleSuccessful,Juventus,15,Fiorentina,17
+CornersTotal,Juventus,10,Fiorentina,7
+Dispossessed,Juventus,5,Fiorentina,6
+ShotsOnPost,Juventus,0,Fiorentina,2
+ShotsOnTarget,Juventus,4,Fiorentina,3
+ShotsOffTarget,Juventus,5,Fiorentina,8
+ShotsBlocked,Juventus,9,Fiorentina,2
+Touches,Juventus,795,Fiorentina,585
+PassesTotal,Juventus,619,Fiorentina,404
+PassesAccurate,Juventus,557,Fiorentina,347
+KeyPasses,Juventus,15,Fiorentina,10
+DribblesAttempted,Juventus,25,Fiorentina,16
+DribblesPast,Juventus,7,Fiorentina,13
+DribbleSuccess,Juventus,52,Fiorentina,44
+OffensiveAerials,Juventus,16,Fiorentina,10
+DefensiveAerials,Juventus,10,Fiorentina,16
+AerialsWon,Juventus,46,Fiorentina,54
+TacklesAttempted,Juventus,22,Fiorentina,30
+TacklesUnsuccessful,Juventus,7,Fiorentina,13
+TackleSuccess,Juventus,68,Fiorentina,57
+Clearances,Juventus,17,Fiorentina,23
+Interceptions,Juventus,6,Fiorentina,9
+Errors,Juventus,0,Fiorentina,1
+Fouls,Juventus,13,Fiorentina,9
+Offsides,Juventus,4,Fiorentina,3
+Rating,Inter,6.77,Roma,6.71
+TotalShots,Inter,21,Roma,9
+Possession,Inter,72,Roma,28
+PassSuccess,Inter,89,Roma,72
+DribblesWon,Inter,5,Roma,4
+AerialsWon,Inter,20,Roma,27
+TackleSuccessful,Inter,15,Roma,7
+CornersTotal,Inter,7,Roma,4
+Dispossessed,Inter,3,Roma,6
+ShotsOnPost,Inter,1,Roma,0
+ShotsOnTarget,Inter,5,Roma,5
+ShotsOffTarget,Inter,8,Roma,4
+ShotsBlocked,Inter,8,Roma,0
+Touches,Inter,860,Roma,441
+PassesTotal,Inter,681,Roma,268
+PassesAccurate,Inter,608,Roma,192
+KeyPasses,Inter,15,Roma,8
+DribblesAttempted,Inter,9,Roma,13
+DribblesPast,Inter,4,Roma,5
+DribbleSuccess,Inter,56,Roma,31
+OffensiveAerials,Inter,27,Roma,20
+DefensiveAerials,Inter,20,Roma,27
+AerialsWon,Inter,43,Roma,57
+TacklesAttempted,Inter,19,Roma,12
+TacklesUnsuccessful,Inter,4,Roma,5
+TackleSuccess,Inter,79,Roma,58
+Clearances,Inter,8,Roma,40
+Interceptions,Inter,8,Roma,11
+Errors,Inter,0,Roma,1
+Fouls,Inter,7,Roma,13
+Offsides,Inter,2,Roma,2
+Rating,Napoli,6.52,Atalanta,7.07
+TotalShots,Napoli,17,Atalanta,13
+Possession,Napoli,46.1,Atalanta,53.9
+PassSuccess,Napoli,81,Atalanta,82
+DribblesWon,Napoli,10,Atalanta,19
+AerialsWon,Napoli,8,Atalanta,11
+TackleSuccessful,Napoli,22,Atalanta,20
+CornersTotal,Napoli,3,Atalanta,3
+Dispossessed,Napoli,10,Atalanta,12
+ShotsOnPost,Napoli,0,Atalanta,0
+ShotsOnTarget,Napoli,6,Atalanta,7
+ShotsOffTarget,Napoli,6,Atalanta,4
+ShotsBlocked,Napoli,5,Atalanta,2
+Touches,Napoli,683,Atalanta,788
+PassesTotal,Napoli,486,Atalanta,564
+PassesAccurate,Napoli,392,Atalanta,461
+KeyPasses,Napoli,12,Atalanta,9
+DribblesAttempted,Napoli,20,Atalanta,29
+DribblesPast,Napoli,19,Atalanta,10
+DribbleSuccess,Napoli,50,Atalanta,66
+OffensiveAerials,Napoli,7,Atalanta,12
+DefensiveAerials,Napoli,12,Atalanta,7
+AerialsWon,Napoli,42,Atalanta,58
+TacklesAttempted,Napoli,41,Atalanta,30
+TacklesUnsuccessful,Napoli,19,Atalanta,10
+TackleSuccess,Napoli,54,Atalanta,67
+Clearances,Napoli,16,Atalanta,12
+Interceptions,Napoli,10,Atalanta,17
+Errors,Napoli,1,Atalanta,1
+Fouls,Napoli,13,Atalanta,10
+Offsides,Napoli,2,Atalanta,1
+Rating,Bologna,7.07,Empoli,6.37
+TotalShots,Bologna,24,Empoli,6
+Possession,Bologna,51.5,Empoli,48.5
+PassSuccess,Bologna,85,Empoli,80
+DribblesWon,Bologna,10,Empoli,9
+AerialsWon,Bologna,14,Empoli,10
+TackleSuccessful,Bologna,25,Empoli,17
+CornersTotal,Bologna,13,Empoli,5
+Dispossessed,Bologna,10,Empoli,15
+ShotsOnPost,Bologna,0,Empoli,0
+ShotsOnTarget,Bologna,7,Empoli,3
+ShotsOffTarget,Bologna,10,Empoli,1
+ShotsBlocked,Bologna,7,Empoli,2
+Touches,Bologna,636,Empoli,601
+PassesTotal,Bologna,410,Empoli,394
+PassesAccurate,Bologna,349,Empoli,316
+KeyPasses,Bologna,19,Empoli,6
+DribblesAttempted,Bologna,17,Empoli,19
+DribblesPast,Bologna,9,Empoli,10
+DribbleSuccess,Bologna,59,Empoli,47
+OffensiveAerials,Bologna,10,Empoli,14
+DefensiveAerials,Bologna,14,Empoli,10
+AerialsWon,Bologna,58,Empoli,42
+TacklesAttempted,Bologna,34,Empoli,27
+TacklesUnsuccessful,Bologna,9,Empoli,10
+TackleSuccess,Bologna,74,Empoli,63
+Clearances,Bologna,19,Empoli,29
+Interceptions,Bologna,9,Empoli,8
+Errors,Bologna,1,Empoli,0
+Fouls,Bologna,13,Empoli,15
+Offsides,Bologna,3,Empoli,0
+Rating,Roma,7.33,Cagliari,6.29
+TotalShots,Roma,21,Cagliari,11
+Possession,Roma,43.3,Cagliari,56.7
+PassSuccess,Roma,84,Cagliari,86
+DribblesWon,Roma,9,Cagliari,5
+AerialsWon,Roma,24,Cagliari,18
+TackleSuccessful,Roma,12,Cagliari,12
+CornersTotal,Roma,5,Cagliari,5
+Dispossessed,Roma,8,Cagliari,7
+ShotsOnPost,Roma,1,Cagliari,0
+ShotsOnTarget,Roma,10,Cagliari,2
+ShotsOffTarget,Roma,5,Cagliari,3
+ShotsBlocked,Roma,6,Cagliari,6
+Touches,Roma,606,Cagliari,720
+PassesTotal,Roma,426,Cagliari,545
+PassesAccurate,Roma,356,Cagliari,466
+KeyPasses,Roma,14,Cagliari,9
+DribblesAttempted,Roma,13,Cagliari,10
+DribblesPast,Roma,5,Cagliari,9
+DribbleSuccess,Roma,69,Cagliari,50
+OffensiveAerials,Roma,18,Cagliari,24
+DefensiveAerials,Roma,24,Cagliari,18
+AerialsWon,Roma,57,Cagliari,43
+TacklesAttempted,Roma,17,Cagliari,21
+TacklesUnsuccessful,Roma,5,Cagliari,9
+TackleSuccess,Roma,71,Cagliari,57
+Clearances,Roma,25,Cagliari,10
+Interceptions,Roma,5,Cagliari,6
+Errors,Roma,0,Cagliari,0
+Fouls,Roma,7,Cagliari,7
+Offsides,Roma,3,Cagliari,2
+Rating,Inter,6.62,Juventus,6.56
+TotalShots,Inter,15,Juventus,10
+Possession,Inter,54.8,Juventus,45.2
+PassSuccess,Inter,87,Juventus,87
+DribblesWon,Inter,7,Juventus,10
+AerialsWon,Inter,9,Juventus,7
+TackleSuccessful,Inter,10,Juventus,9
+CornersTotal,Inter,10,Juventus,4
+Dispossessed,Inter,5,Juventus,6
+ShotsOnPost,Inter,0,Juventus,0
+ShotsOnTarget,Inter,6,Juventus,3
+ShotsOffTarget,Inter,8,Juventus,6
+ShotsBlocked,Inter,1,Juventus,1
+Touches,Inter,699,Juventus,620
+PassesTotal,Inter,540,Juventus,444
+PassesAccurate,Inter,468,Juventus,385
+KeyPasses,Inter,13,Juventus,7
+DribblesAttempted,Inter,11,Juventus,14
+DribblesPast,Inter,10,Juventus,7
+DribbleSuccess,Inter,64,Juventus,71
+OffensiveAerials,Inter,11,Juventus,5
+DefensiveAerials,Inter,5,Juventus,11
+AerialsWon,Inter,56,Juventus,44
+TacklesAttempted,Inter,20,Juventus,16
+TacklesUnsuccessful,Inter,10,Juventus,7
+TackleSuccess,Inter,50,Juventus,56
+Clearances,Inter,15,Juventus,24
+Interceptions,Inter,9,Juventus,3
+Errors,Inter,0,Juventus,0
+Fouls,Inter,12,Juventus,12
+Offsides,Inter,1,Juventus,2
+Rating,Frosinone,6.29,Napoli,7.38
+TotalShots,Frosinone,15,Napoli,20
+Possession,Frosinone,33.7,Napoli,66.3
+PassSuccess,Frosinone,73,Napoli,89
+DribblesWon,Frosinone,5,Napoli,17
+AerialsWon,Frosinone,9,Napoli,14
+TackleSuccessful,Frosinone,17,Napoli,11
+CornersTotal,Frosinone,2,Napoli,6
+Dispossessed,Frosinone,6,Napoli,8
+ShotsOnPost,Frosinone,0,Napoli,3
+ShotsOnTarget,Frosinone,5,Napoli,9
+ShotsOffTarget,Frosinone,8,Napoli,9
+ShotsBlocked,Frosinone,2,Napoli,2
+Touches,Frosinone,468,Napoli,827
+PassesTotal,Frosinone,310,Napoli,635
+PassesAccurate,Frosinone,227,Napoli,564
+KeyPasses,Frosinone,11,Napoli,13
+DribblesAttempted,Frosinone,10,Napoli,26
+DribblesPast,Frosinone,17,Napoli,5
+DribbleSuccess,Frosinone,50,Napoli,65
+OffensiveAerials,Frosinone,15,Napoli,8
+DefensiveAerials,Frosinone,8,Napoli,15
+AerialsWon,Frosinone,39,Napoli,61
+TacklesAttempted,Frosinone,34,Napoli,16
+TacklesUnsuccessful,Frosinone,17,Napoli,5
+TackleSuccess,Frosinone,50,Napoli,69
+Clearances,Frosinone,17,Napoli,12
+Interceptions,Frosinone,7,Napoli,7
+Errors,Frosinone,1,Napoli,0
+Fouls,Frosinone,25,Napoli,16
+Offsides,Frosinone,3,Napoli,2
+Rating,SPAL 2013,6.72,Genoa,6.75
+TotalShots,SPAL 2013,11,Genoa,18
+Possession,SPAL 2013,55.6,Genoa,44.4
+PassSuccess,SPAL 2013,85,Genoa,77
+DribblesWon,SPAL 2013,10,Genoa,8
+AerialsWon,SPAL 2013,25,Genoa,18
+TackleSuccessful,SPAL 2013,15,Genoa,29
+CornersTotal,SPAL 2013,2,Genoa,4
+Dispossessed,SPAL 2013,16,Genoa,6
+ShotsOnPost,SPAL 2013,0,Genoa,1
+ShotsOnTarget,SPAL 2013,5,Genoa,4
+ShotsOffTarget,SPAL 2013,6,Genoa,10
+ShotsBlocked,SPAL 2013,0,Genoa,4
+Touches,SPAL 2013,640,Genoa,530
+PassesTotal,SPAL 2013,421,Genoa,341
+PassesAccurate,SPAL 2013,359,Genoa,261
+KeyPasses,SPAL 2013,8,Genoa,11
+DribblesAttempted,SPAL 2013,23,Genoa,17
+DribblesPast,SPAL 2013,8,Genoa,10
+DribbleSuccess,SPAL 2013,43,Genoa,47
+OffensiveAerials,SPAL 2013,12,Genoa,31
+DefensiveAerials,SPAL 2013,31,Genoa,12
+AerialsWon,SPAL 2013,58,Genoa,42
+TacklesAttempted,SPAL 2013,23,Genoa,39
+TacklesUnsuccessful,SPAL 2013,8,Genoa,10
+TackleSuccess,SPAL 2013,65,Genoa,74
+Clearances,SPAL 2013,29,Genoa,13
+Interceptions,SPAL 2013,5,Genoa,9
+Errors,SPAL 2013,0,Genoa,0
+Fouls,SPAL 2013,14,Genoa,15
+Offsides,SPAL 2013,1,Genoa,1
+Rating,Chievo,6.59,Parma Calcio 1913,6.65
+TotalShots,Chievo,11,Parma Calcio 1913,8
+Possession,Chievo,52.1,Parma Calcio 1913,47.9
+PassSuccess,Chievo,79,Parma Calcio 1913,74
+DribblesWon,Chievo,4,Parma Calcio 1913,14
+AerialsWon,Chievo,23,Parma Calcio 1913,23
+TackleSuccessful,Chievo,17,Parma Calcio 1913,16
+CornersTotal,Chievo,2,Parma Calcio 1913,4
+Dispossessed,Chievo,10,Parma Calcio 1913,11
+ShotsOnPost,Chievo,0,Parma Calcio 1913,0
+ShotsOnTarget,Chievo,2,Parma Calcio 1913,3
+ShotsOffTarget,Chievo,5,Parma Calcio 1913,3
+ShotsBlocked,Chievo,4,Parma Calcio 1913,2
+Touches,Chievo,653,Parma Calcio 1913,619
+PassesTotal,Chievo,462,Parma Calcio 1913,435
+PassesAccurate,Chievo,366,Parma Calcio 1913,324
+KeyPasses,Chievo,10,Parma Calcio 1913,7
+DribblesAttempted,Chievo,10,Parma Calcio 1913,20
+DribblesPast,Chievo,14,Parma Calcio 1913,4
+DribbleSuccess,Chievo,40,Parma Calcio 1913,70
+OffensiveAerials,Chievo,25,Parma Calcio 1913,21
+DefensiveAerials,Chievo,21,Parma Calcio 1913,25
+AerialsWon,Chievo,50,Parma Calcio 1913,50
+TacklesAttempted,Chievo,31,Parma Calcio 1913,20
+TacklesUnsuccessful,Chievo,14,Parma Calcio 1913,4
+TackleSuccess,Chievo,55,Parma Calcio 1913,80
+Clearances,Chievo,10,Parma Calcio 1913,12
+Interceptions,Chievo,14,Parma Calcio 1913,8
+Errors,Chievo,0,Parma Calcio 1913,0
+Fouls,Chievo,15,Parma Calcio 1913,17
+Offsides,Chievo,2,Parma Calcio 1913,0
+Rating,Sampdoria,6.23,Lazio,6.82
+TotalShots,Sampdoria,14,Lazio,14
+Possession,Sampdoria,55.3,Lazio,44.7
+PassSuccess,Sampdoria,88,Lazio,85
+DribblesWon,Sampdoria,5,Lazio,9
+AerialsWon,Sampdoria,11,Lazio,9
+TackleSuccessful,Sampdoria,12,Lazio,13
+CornersTotal,Sampdoria,1,Lazio,4
+Dispossessed,Sampdoria,7,Lazio,4
+ShotsOnPost,Sampdoria,1,Lazio,2
+ShotsOnTarget,Sampdoria,3,Lazio,3
+ShotsOffTarget,Sampdoria,8,Lazio,7
+ShotsBlocked,Sampdoria,3,Lazio,4
+Touches,Sampdoria,707,Lazio,616
+PassesTotal,Sampdoria,553,Lazio,454
+PassesAccurate,Sampdoria,488,Lazio,387
+KeyPasses,Sampdoria,7,Lazio,14
+DribblesAttempted,Sampdoria,11,Lazio,17
+DribblesPast,Sampdoria,9,Lazio,5
+DribbleSuccess,Sampdoria,45,Lazio,53
+OffensiveAerials,Sampdoria,12,Lazio,8
+DefensiveAerials,Sampdoria,8,Lazio,12
+AerialsWon,Sampdoria,55,Lazio,45
+TacklesAttempted,Sampdoria,21,Lazio,18
+TacklesUnsuccessful,Sampdoria,9,Lazio,5
+TackleSuccess,Sampdoria,57,Lazio,72
+Clearances,Sampdoria,6,Lazio,27
+Interceptions,Sampdoria,3,Lazio,11
+Errors,Sampdoria,0,Lazio,2
+Fouls,Sampdoria,13,Lazio,10
+Offsides,Sampdoria,0,Lazio,2
+Rating,Torino,7.27,AC Milan,6.23
+TotalShots,Torino,11,AC Milan,12
+Possession,Torino,42.5,AC Milan,57.5
+PassSuccess,Torino,71,AC Milan,76
+DribblesWon,Torino,8,AC Milan,6
+AerialsWon,Torino,24,AC Milan,19
+TackleSuccessful,Torino,18,AC Milan,16
+CornersTotal,Torino,4,AC Milan,9
+Dispossessed,Torino,6,AC Milan,10
+ShotsOnPost,Torino,0,AC Milan,1
+ShotsOnTarget,Torino,3,AC Milan,3
+ShotsOffTarget,Torino,5,AC Milan,6
+ShotsBlocked,Torino,3,AC Milan,3
+Touches,Torino,519,AC Milan,613
+PassesTotal,Torino,286,AC Milan,393
+PassesAccurate,Torino,202,AC Milan,298
+KeyPasses,Torino,6,AC Milan,10
+DribblesAttempted,Torino,18,AC Milan,14
+DribblesPast,Torino,6,AC Milan,8
+DribbleSuccess,Torino,44,AC Milan,43
+OffensiveAerials,Torino,22,AC Milan,21
+DefensiveAerials,Torino,21,AC Milan,22
+AerialsWon,Torino,56,AC Milan,44
+TacklesAttempted,Torino,24,AC Milan,24
+TacklesUnsuccessful,Torino,6,AC Milan,8
+TackleSuccess,Torino,75,AC Milan,67
+Clearances,Torino,36,AC Milan,30
+Interceptions,Torino,20,AC Milan,12
+Errors,Torino,0,AC Milan,0
+Fouls,Torino,19,AC Milan,21
+Offsides,Torino,2,AC Milan,0
+Rating,Atalanta,7.11,Udinese,6.62
+TotalShots,Atalanta,15,Udinese,5
+Possession,Atalanta,62.8,Udinese,37.2
+PassSuccess,Atalanta,82,Udinese,71
+DribblesWon,Atalanta,10,Udinese,11
+AerialsWon,Atalanta,21,Udinese,25
+TackleSuccessful,Atalanta,15,Udinese,29
+CornersTotal,Atalanta,9,Udinese,5
+Dispossessed,Atalanta,17,Udinese,8
+ShotsOnPost,Atalanta,0,Udinese,1
+ShotsOnTarget,Atalanta,8,Udinese,1
+ShotsOffTarget,Atalanta,4,Udinese,4
+ShotsBlocked,Atalanta,3,Udinese,0
+Touches,Atalanta,788,Udinese,561
+PassesTotal,Atalanta,526,Udinese,308
+PassesAccurate,Atalanta,433,Udinese,218
+KeyPasses,Atalanta,12,Udinese,4
+DribblesAttempted,Atalanta,22,Udinese,18
+DribblesPast,Atalanta,11,Udinese,10
+DribbleSuccess,Atalanta,45,Udinese,61
+OffensiveAerials,Atalanta,25,Udinese,21
+DefensiveAerials,Atalanta,21,Udinese,25
+AerialsWon,Atalanta,46,Udinese,54
+TacklesAttempted,Atalanta,26,Udinese,39
+TacklesUnsuccessful,Atalanta,11,Udinese,10
+TackleSuccess,Atalanta,58,Udinese,74
+Clearances,Atalanta,21,Udinese,37
+Interceptions,Atalanta,11,Udinese,10
+Errors,Atalanta,0,Udinese,0
+Fouls,Atalanta,7,Udinese,13
+Offsides,Atalanta,1,Udinese,2
+Rating,Fiorentina,6.47,Sassuolo,7.01
+TotalShots,Fiorentina,11,Sassuolo,13
+Possession,Fiorentina,44.5,Sassuolo,55.5
+PassSuccess,Fiorentina,76,Sassuolo,81
+DribblesWon,Fiorentina,9,Sassuolo,8
+AerialsWon,Fiorentina,13,Sassuolo,19
+TackleSuccessful,Fiorentina,19,Sassuolo,16
+CornersTotal,Fiorentina,7,Sassuolo,8
+Dispossessed,Fiorentina,10,Sassuolo,13
+ShotsOnPost,Fiorentina,0,Sassuolo,0
+ShotsOnTarget,Fiorentina,4,Sassuolo,3
+ShotsOffTarget,Fiorentina,3,Sassuolo,6
+ShotsBlocked,Fiorentina,4,Sassuolo,4
+Touches,Fiorentina,593,Sassuolo,701
+PassesTotal,Fiorentina,401,Sassuolo,485
+PassesAccurate,Fiorentina,306,Sassuolo,393
+KeyPasses,Fiorentina,8,Sassuolo,11
+DribblesAttempted,Fiorentina,15,Sassuolo,14
+DribblesPast,Fiorentina,8,Sassuolo,9
+DribbleSuccess,Fiorentina,60,Sassuolo,57
+OffensiveAerials,Fiorentina,15,Sassuolo,17
+DefensiveAerials,Fiorentina,17,Sassuolo,15
+AerialsWon,Fiorentina,41,Sassuolo,59
+TacklesAttempted,Fiorentina,27,Sassuolo,25
+TacklesUnsuccessful,Fiorentina,8,Sassuolo,9
+TackleSuccess,Fiorentina,70,Sassuolo,64
+Clearances,Fiorentina,27,Sassuolo,20
+Interceptions,Fiorentina,10,Sassuolo,13
+Errors,Fiorentina,0,Sassuolo,0
+Fouls,Fiorentina,16,Sassuolo,8
+Offsides,Fiorentina,2,Sassuolo,5
