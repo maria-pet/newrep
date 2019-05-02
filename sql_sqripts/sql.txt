@@ -1,0 +1,61 @@
+with teams as
+(
+  select distinct home tm
+  from vw_cur_rait_res
+), data_tb as
+(
+select 
+  case when t1.home = t2.tm then t1.home else t1.away end team,
+  case when t1.home = t2.tm then t1.away else t1.home end enemy,
+  case when t1.home = t2.tm then cast(t1.home_val as decimal(3,2)) else cast(t1.away_val as decimal(3,2)) end team_val,
+  case when t1.home = t2.tm then cast(t1.away_val as decimal(3,2)) else cast(t1.home_val as decimal(3,2)) end enemy_val,
+  case when t1.home = t2.tm then t1.home_sc else t1.away_sc end team_sc,
+  case when t1.home = t2.tm then t1.away_sc else t1.home_sc end enemy_sc,
+  mdate
+from vw_cur_rait_res t1,teams t2
+where t1.home = t2.tm or t1.away = t2.tm 
+union all
+select * from vw_test
+), agg_tb as 
+  (
+    select  
+      row_number() over(partition by team order by mdate asc) m_num
+      ,team,enemy,team_val,enemy_val,team_sc,enemy_sc,
+      --rait
+      cast((avg(1.00*team_val) over(partition by team order by mdate asc
+        rows between 3 preceding and 1 preceding)) as decimal(3,1)) m3_team_val,
+      cast((avg(1.00*team_val) over(partition by team order by mdate asc
+        rows between 6 preceding and 1 preceding)) as decimal(3,1)) m6_team_val,
+      --goals m3
+      cast((avg(1.00*team_sc) over(partition by team order by mdate asc
+        rows between 3 preceding and 1 preceding)) as decimal(3,1)) m3_team_sc,
+      cast((avg(1.00*enemy_sc) over(partition by team order by mdate asc
+        rows between 3 preceding and 1 preceding)) as decimal(3,1)) m3_team_mis, 
+      --goals m6 
+      cast((avg(1.00*team_sc) over(partition by team order by mdate asc
+        rows between 6 preceding and 1 preceding)) as decimal(3,1)) m6_team_sc,
+      cast((avg(1.00*enemy_sc) over(partition by team order by mdate asc
+        rows between 6 preceding and 1 preceding)) as decimal(3,1)) m6_team_mis, 
+      team_sc - enemy_sc team_gl_diff,
+      enemy_sc - team_sc enemy_gl_diff
+    from data_tb t
+  )
+  select * from agg_tb
+
+  , agg_tb_1 as
+  (
+      select t1.*,
+          (select team_val from agg_tb t2 where t1.team = t2.team and (case when t1.m_num < 2 then 0 else t1.m_num - 1 end)  = t2.m_num) team_val_1m_ago,
+          (select team_val from agg_tb t2 where t1.team = t2.team and (case when t1.m_num < 3 then 0 else t1.m_num - 2 end)  = t2.m_num) team_val_2m_ago,
+          (select team_val from agg_tb t2 where t1.team = t2.team and (case when t1.m_num < 4 then 0 else t1.m_num - 3 end)  = t2.m_num) team_val_3m_ago
+      from agg_tb t1
+  )
+select 
+    m_num,team,enemy,team_val,
+    enemy_val,team_sc,enemy_sc,
+    m3_team_val,m6_team_val,
+    m3_team_sc,m3_team_mis,
+    m6_team_sc,m6_team_mis,
+    team_gl_diff,enemy_gl_diff,
+    cast((abs(team_val_2m_ago - team_val_3m_ago) + abs(team_val_1m_ago - team_val_2m_ago))/2 as decimal(3,2)) avg_rait_diff_2m
+from agg_tb_1 t1
