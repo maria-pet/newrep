@@ -1,0 +1,310 @@
+Rating,Sevilla,6.34,Leganes,7.38
+TotalShots,Sevilla,7,Leganes,9
+Possession,Sevilla,64.2,Leganes,35.8
+PassSuccess,Sevilla,80,Leganes,67
+DribblesWon,Sevilla,21,Leganes,7
+AerialsWon,Sevilla,17,Leganes,32
+TackleSuccessful,Sevilla,17,Leganes,18
+CornersTotal,Sevilla,3,Leganes,4
+Dispossessed,Sevilla,13,Leganes,7
+ShotsOnPost,Sevilla,1,Leganes,0
+ShotsOnTarget,Sevilla,3,Leganes,5
+ShotsOffTarget,Sevilla,3,Leganes,3
+ShotsBlocked,Sevilla,1,Leganes,1
+Touches,Sevilla,713,Leganes,486
+PassesTotal,Sevilla,484,Leganes,276
+PassesAccurate,Sevilla,388,Leganes,185
+KeyPasses,Sevilla,5,Leganes,8
+DribblesAttempted,Sevilla,26,Leganes,17
+DribblesPast,Sevilla,7,Leganes,21
+DribbleSuccess,Sevilla,81,Leganes,41
+OffensiveAerials,Sevilla,16,Leganes,33
+DefensiveAerials,Sevilla,33,Leganes,16
+AerialsWon,Sevilla,35,Leganes,65
+TacklesAttempted,Sevilla,24,Leganes,39
+TacklesUnsuccessful,Sevilla,7,Leganes,21
+TackleSuccess,Sevilla,71,Leganes,46
+Clearances,Sevilla,15,Leganes,43
+Interceptions,Sevilla,16,Leganes,11
+Errors,Sevilla,2,Leganes,0
+Fouls,Sevilla,11,Leganes,23
+Offsides,Sevilla,3,Leganes,3
+Rating,Levante,7.17,Rayo Vallecano,6.35
+TotalShots,Levante,11,Rayo Vallecano,20
+Possession,Levante,34.9,Rayo Vallecano,65.1
+PassSuccess,Levante,65,Rayo Vallecano,83
+DribblesWon,Levante,5,Rayo Vallecano,22
+AerialsWon,Levante,17,Rayo Vallecano,9
+TackleSuccessful,Levante,23,Rayo Vallecano,13
+CornersTotal,Levante,6,Rayo Vallecano,7
+Dispossessed,Levante,9,Rayo Vallecano,10
+ShotsOnPost,Levante,0,Rayo Vallecano,0
+ShotsOnTarget,Levante,7,Rayo Vallecano,3
+ShotsOffTarget,Levante,4,Rayo Vallecano,10
+ShotsBlocked,Levante,0,Rayo Vallecano,7
+Touches,Levante,387,Rayo Vallecano,612
+PassesTotal,Levante,225,Rayo Vallecano,413
+PassesAccurate,Levante,146,Rayo Vallecano,341
+KeyPasses,Levante,8,Rayo Vallecano,15
+DribblesAttempted,Levante,9,Rayo Vallecano,35
+DribblesPast,Levante,22,Rayo Vallecano,5
+DribbleSuccess,Levante,56,Rayo Vallecano,63
+OffensiveAerials,Levante,11,Rayo Vallecano,15
+DefensiveAerials,Levante,15,Rayo Vallecano,11
+AerialsWon,Levante,65,Rayo Vallecano,35
+TacklesAttempted,Levante,45,Rayo Vallecano,18
+TacklesUnsuccessful,Levante,22,Rayo Vallecano,5
+TackleSuccess,Levante,51,Rayo Vallecano,72
+Clearances,Levante,23,Rayo Vallecano,11
+Interceptions,Levante,10,Rayo Vallecano,9
+Errors,Levante,0,Rayo Vallecano,1
+Fouls,Levante,17,Rayo Vallecano,12
+Offsides,Levante,4,Rayo Vallecano,0
+Rating,Espanyol,7.17,Atletico,6.22
+TotalShots,Espanyol,11,Atletico,11
+Possession,Espanyol,49.8,Atletico,50.2
+PassSuccess,Espanyol,85,Atletico,85
+DribblesWon,Espanyol,10,Atletico,5
+AerialsWon,Espanyol,12,Atletico,9
+TackleSuccessful,Espanyol,12,Atletico,25
+CornersTotal,Espanyol,5,Atletico,6
+Dispossessed,Espanyol,14,Atletico,10
+ShotsOnPost,Espanyol,0,Atletico,0
+ShotsOnTarget,Espanyol,5,Atletico,3
+ShotsOffTarget,Espanyol,4,Atletico,3
+ShotsBlocked,Espanyol,2,Atletico,5
+Touches,Espanyol,652,Atletico,636
+PassesTotal,Espanyol,472,Atletico,466
+PassesAccurate,Espanyol,402,Atletico,395
+KeyPasses,Espanyol,8,Atletico,7
+DribblesAttempted,Espanyol,21,Atletico,7
+DribblesPast,Espanyol,5,Atletico,10
+DribbleSuccess,Espanyol,48,Atletico,71
+OffensiveAerials,Espanyol,8,Atletico,13
+DefensiveAerials,Espanyol,13,Atletico,8
+AerialsWon,Espanyol,57,Atletico,43
+TacklesAttempted,Espanyol,17,Atletico,35
+TacklesUnsuccessful,Espanyol,5,Atletico,10
+TackleSuccess,Espanyol,71,Atletico,71
+Clearances,Espanyol,22,Atletico,14
+Interceptions,Espanyol,9,Atletico,15
+Errors,Espanyol,0,Atletico,0
+Fouls,Espanyol,11,Atletico,14
+Offsides,Espanyol,0,Atletico,2
+Rating,Deportivo Alaves,6.70,Real Sociedad,6.78
+TotalShots,Deportivo Alaves,18,Real Sociedad,9
+Possession,Deportivo Alaves,50.4,Real Sociedad,49.6
+PassSuccess,Deportivo Alaves,73,Real Sociedad,73
+DribblesWon,Deportivo Alaves,8,Real Sociedad,11
+AerialsWon,Deportivo Alaves,35,Real Sociedad,21
+TackleSuccessful,Deportivo Alaves,20,Real Sociedad,9
+CornersTotal,Deportivo Alaves,13,Real Sociedad,6
+Dispossessed,Deportivo Alaves,5,Real Sociedad,12
+ShotsOnPost,Deportivo Alaves,0,Real Sociedad,0
+ShotsOnTarget,Deportivo Alaves,6,Real Sociedad,2
+ShotsOffTarget,Deportivo Alaves,9,Real Sociedad,4
+ShotsBlocked,Deportivo Alaves,3,Real Sociedad,3
+Touches,Deportivo Alaves,605,Real Sociedad,596
+PassesTotal,Deportivo Alaves,369,Real Sociedad,384
+PassesAccurate,Deportivo Alaves,270,Real Sociedad,280
+KeyPasses,Deportivo Alaves,12,Real Sociedad,6
+DribblesAttempted,Deportivo Alaves,12,Real Sociedad,19
+DribblesPast,Deportivo Alaves,11,Real Sociedad,8
+DribbleSuccess,Deportivo Alaves,67,Real Sociedad,58
+OffensiveAerials,Deportivo Alaves,35,Real Sociedad,21
+DefensiveAerials,Deportivo Alaves,21,Real Sociedad,35
+AerialsWon,Deportivo Alaves,63,Real Sociedad,38
+TacklesAttempted,Deportivo Alaves,31,Real Sociedad,17
+TacklesUnsuccessful,Deportivo Alaves,11,Real Sociedad,8
+TackleSuccess,Deportivo Alaves,65,Real Sociedad,53
+Clearances,Deportivo Alaves,19,Real Sociedad,41
+Interceptions,Deportivo Alaves,17,Real Sociedad,8
+Errors,Deportivo Alaves,0,Real Sociedad,0
+Fouls,Deportivo Alaves,7,Real Sociedad,22
+Offsides,Deportivo Alaves,3,Real Sociedad,2
+Rating,Celta Vigo,6.98,Barcelona,6.19
+TotalShots,Celta Vigo,14,Barcelona,8
+Possession,Celta Vigo,34.8,Barcelona,65.2
+PassSuccess,Celta Vigo,83,Barcelona,90
+DribblesWon,Celta Vigo,5,Barcelona,8
+AerialsWon,Celta Vigo,14,Barcelona,9
+TackleSuccessful,Celta Vigo,13,Barcelona,8
+CornersTotal,Celta Vigo,11,Barcelona,1
+Dispossessed,Celta Vigo,4,Barcelona,4
+ShotsOnPost,Celta Vigo,0,Barcelona,0
+ShotsOnTarget,Celta Vigo,6,Barcelona,1
+ShotsOffTarget,Celta Vigo,5,Barcelona,5
+ShotsBlocked,Celta Vigo,3,Barcelona,2
+Touches,Celta Vigo,482,Barcelona,769
+PassesTotal,Celta Vigo,315,Barcelona,618
+PassesAccurate,Celta Vigo,262,Barcelona,559
+KeyPasses,Celta Vigo,12,Barcelona,7
+DribblesAttempted,Celta Vigo,9,Barcelona,17
+DribblesPast,Celta Vigo,8,Barcelona,5
+DribbleSuccess,Celta Vigo,56,Barcelona,47
+OffensiveAerials,Celta Vigo,13,Barcelona,10
+DefensiveAerials,Celta Vigo,10,Barcelona,13
+AerialsWon,Celta Vigo,61,Barcelona,39
+TacklesAttempted,Celta Vigo,21,Barcelona,13
+TacklesUnsuccessful,Celta Vigo,8,Barcelona,5
+TackleSuccess,Celta Vigo,62,Barcelona,62
+Clearances,Celta Vigo,21,Barcelona,17
+Interceptions,Celta Vigo,6,Barcelona,3
+Errors,Celta Vigo,0,Barcelona,1
+Fouls,Celta Vigo,11,Barcelona,13
+Offsides,Celta Vigo,2,Barcelona,1
+Rating,Getafe,7.16,Girona,6.17
+TotalShots,Getafe,13,Girona,4
+Possession,Getafe,40.6,Girona,59.4
+PassSuccess,Getafe,66,Girona,75
+DribblesWon,Getafe,16,Girona,9
+AerialsWon,Getafe,32,Girona,20
+TackleSuccessful,Getafe,11,Girona,17
+CornersTotal,Getafe,1,Girona,3
+Dispossessed,Getafe,10,Girona,8
+ShotsOnPost,Getafe,0,Girona,0
+ShotsOnTarget,Getafe,8,Girona,2
+ShotsOffTarget,Getafe,5,Girona,2
+ShotsBlocked,Getafe,0,Girona,0
+Touches,Getafe,503,Girona,642
+PassesTotal,Getafe,309,Girona,456
+PassesAccurate,Getafe,203,Girona,344
+KeyPasses,Getafe,10,Girona,3
+DribblesAttempted,Getafe,23,Girona,12
+DribblesPast,Getafe,9,Girona,16
+DribbleSuccess,Getafe,70,Girona,75
+OffensiveAerials,Getafe,25,Girona,27
+DefensiveAerials,Getafe,27,Girona,25
+AerialsWon,Getafe,62,Girona,38
+TacklesAttempted,Getafe,20,Girona,33
+TacklesUnsuccessful,Getafe,9,Girona,16
+TackleSuccess,Getafe,55,Girona,52
+Clearances,Getafe,15,Girona,16
+Interceptions,Getafe,10,Girona,9
+Errors,Getafe,0,Girona,1
+Fouls,Getafe,15,Girona,13
+Offsides,Getafe,1,Girona,2
+Rating,Eibar,7.23,Real Betis,6.50
+TotalShots,Eibar,14,Real Betis,12
+Possession,Eibar,45.9,Real Betis,54.1
+PassSuccess,Eibar,73,Real Betis,74
+DribblesWon,Eibar,12,Real Betis,15
+AerialsWon,Eibar,24,Real Betis,16
+TackleSuccessful,Eibar,28,Real Betis,13
+CornersTotal,Eibar,11,Real Betis,8
+Dispossessed,Eibar,9,Real Betis,10
+ShotsOnPost,Eibar,0,Real Betis,1
+ShotsOnTarget,Eibar,6,Real Betis,6
+ShotsOffTarget,Eibar,6,Real Betis,6
+ShotsBlocked,Eibar,2,Real Betis,0
+Touches,Eibar,559,Real Betis,653
+PassesTotal,Eibar,348,Real Betis,417
+PassesAccurate,Eibar,254,Real Betis,309
+KeyPasses,Eibar,11,Real Betis,7
+DribblesAttempted,Eibar,16,Real Betis,33
+DribblesPast,Eibar,15,Real Betis,12
+DribbleSuccess,Eibar,75,Real Betis,45
+OffensiveAerials,Eibar,23,Real Betis,17
+DefensiveAerials,Eibar,17,Real Betis,23
+AerialsWon,Eibar,60,Real Betis,40
+TacklesAttempted,Eibar,43,Real Betis,25
+TacklesUnsuccessful,Eibar,15,Real Betis,12
+TackleSuccess,Eibar,65,Real Betis,52
+Clearances,Eibar,31,Real Betis,28
+Interceptions,Eibar,9,Real Betis,10
+Errors,Eibar,0,Real Betis,3
+Fouls,Eibar,15,Real Betis,7
+Offsides,Eibar,1,Real Betis,3
+Rating,Real Madrid,6.96,Villarreal,6.77
+TotalShots,Real Madrid,24,Villarreal,15
+Possession,Real Madrid,59.8,Villarreal,40.2
+PassSuccess,Real Madrid,88,Villarreal,85
+DribblesWon,Real Madrid,17,Villarreal,12
+AerialsWon,Real Madrid,3,Villarreal,9
+TackleSuccessful,Real Madrid,21,Villarreal,20
+CornersTotal,Real Madrid,8,Villarreal,3
+Dispossessed,Real Madrid,10,Villarreal,10
+ShotsOnPost,Real Madrid,1,Villarreal,0
+ShotsOnTarget,Real Madrid,11,Villarreal,7
+ShotsOffTarget,Real Madrid,8,Villarreal,7
+ShotsBlocked,Real Madrid,5,Villarreal,1
+Touches,Real Madrid,828,Villarreal,613
+PassesTotal,Real Madrid,610,Villarreal,403
+PassesAccurate,Real Madrid,539,Villarreal,341
+KeyPasses,Real Madrid,17,Villarreal,16
+DribblesAttempted,Real Madrid,27,Villarreal,23
+DribblesPast,Real Madrid,12,Villarreal,17
+DribbleSuccess,Real Madrid,63,Villarreal,52
+OffensiveAerials,Real Madrid,5,Villarreal,7
+DefensiveAerials,Real Madrid,7,Villarreal,5
+AerialsWon,Real Madrid,25,Villarreal,75
+TacklesAttempted,Real Madrid,33,Villarreal,37
+TacklesUnsuccessful,Real Madrid,12,Villarreal,17
+TackleSuccess,Real Madrid,64,Villarreal,54
+Clearances,Real Madrid,11,Villarreal,22
+Interceptions,Real Madrid,9,Villarreal,10
+Errors,Real Madrid,2,Villarreal,1
+Fouls,Real Madrid,9,Villarreal,14
+Offsides,Real Madrid,3,Villarreal,3
+Rating,Real Valladolid,6.77,Athletic Bilbao,6.43
+TotalShots,Real Valladolid,10,Athletic Bilbao,9
+Possession,Real Valladolid,40.3,Athletic Bilbao,59.7
+PassSuccess,Real Valladolid,67,Athletic Bilbao,77
+DribblesWon,Real Valladolid,7,Athletic Bilbao,10
+AerialsWon,Real Valladolid,23,Athletic Bilbao,32
+TackleSuccessful,Real Valladolid,11,Athletic Bilbao,15
+CornersTotal,Real Valladolid,1,Athletic Bilbao,3
+Dispossessed,Real Valladolid,12,Athletic Bilbao,4
+ShotsOnPost,Real Valladolid,0,Athletic Bilbao,0
+ShotsOnTarget,Real Valladolid,3,Athletic Bilbao,1
+ShotsOffTarget,Real Valladolid,6,Athletic Bilbao,6
+ShotsBlocked,Real Valladolid,1,Athletic Bilbao,2
+Touches,Real Valladolid,445,Athletic Bilbao,579
+PassesTotal,Real Valladolid,290,Athletic Bilbao,428
+PassesAccurate,Real Valladolid,194,Athletic Bilbao,329
+KeyPasses,Real Valladolid,8,Athletic Bilbao,8
+DribblesAttempted,Real Valladolid,10,Athletic Bilbao,17
+DribblesPast,Real Valladolid,10,Athletic Bilbao,7
+DribbleSuccess,Real Valladolid,70,Athletic Bilbao,59
+OffensiveAerials,Real Valladolid,30,Athletic Bilbao,25
+DefensiveAerials,Real Valladolid,25,Athletic Bilbao,30
+AerialsWon,Real Valladolid,42,Athletic Bilbao,58
+TacklesAttempted,Real Valladolid,21,Athletic Bilbao,22
+TacklesUnsuccessful,Real Valladolid,10,Athletic Bilbao,7
+TackleSuccess,Real Valladolid,52,Athletic Bilbao,68
+Clearances,Real Valladolid,10,Athletic Bilbao,12
+Interceptions,Real Valladolid,8,Athletic Bilbao,2
+Errors,Real Valladolid,0,Athletic Bilbao,0
+Fouls,Real Valladolid,14,Athletic Bilbao,22
+Offsides,Real Valladolid,1,Athletic Bilbao,1
+Rating,SD Huesca,6.15,Valencia,7.27
+TotalShots,SD Huesca,24,Valencia,10
+Possession,SD Huesca,51.3,Valencia,48.7
+PassSuccess,SD Huesca,82,Valencia,83
+DribblesWon,SD Huesca,5,Valencia,6
+AerialsWon,SD Huesca,19,Valencia,11
+TackleSuccessful,SD Huesca,10,Valencia,12
+CornersTotal,SD Huesca,7,Valencia,5
+Dispossessed,SD Huesca,7,Valencia,7
+ShotsOnPost,SD Huesca,1,Valencia,0
+ShotsOnTarget,SD Huesca,4,Valencia,7
+ShotsOffTarget,SD Huesca,15,Valencia,2
+ShotsBlocked,SD Huesca,5,Valencia,1
+Touches,SD Huesca,635,Valencia,608
+PassesTotal,SD Huesca,455,Valencia,449
+PassesAccurate,SD Huesca,375,Valencia,373
+KeyPasses,SD Huesca,17,Valencia,8
+DribblesAttempted,SD Huesca,10,Valencia,9
+DribblesPast,SD Huesca,6,Valencia,5
+DribbleSuccess,SD Huesca,50,Valencia,67
+OffensiveAerials,SD Huesca,22,Valencia,8
+DefensiveAerials,SD Huesca,8,Valencia,22
+AerialsWon,SD Huesca,63,Valencia,37
+TacklesAttempted,SD Huesca,16,Valencia,17
+TacklesUnsuccessful,SD Huesca,6,Valencia,5
+TackleSuccess,SD Huesca,63,Valencia,71
+Clearances,SD Huesca,16,Valencia,23
+Interceptions,SD Huesca,15,Valencia,17
+Errors,SD Huesca,1,Valencia,1
+Fouls,SD Huesca,10,Valencia,9
+Offsides,SD Huesca,0,Valencia,0
