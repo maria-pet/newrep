@@ -7,3 +7,46 @@
   
  Конвертация поля в дату: to_date(substring(match_date,1,10),'yyyy-mm-dd') 
  Селект с выражением можно прикрепить прямо сюда.
+ 
+ with date as
+(
+select to_date(substring(match_date,1,10),'yyyy-mm-dd') m_date,
+match_date
+from matches_old
+),
+yearandmes as
+(
+select match_date,
+date_part('year', m_date)-2000 god, date_part('month', m_date) mesyac
+from date
+),
+itog_zapros as
+(
+select match_date, to_date(substring(match_date,1,10),'yyyy-mm-dd') dt,
+case when mesyac>=8 then concat(god, '/', god+1) else concat (god-1, '/', god) end season
+from yearandmes
+)
+
+ALTER TABLE matches_old ADD season VARCHAR(20) null
+
+
+create table matches_old_test as select * from matches_old
+limit 10
+alter table matches_old_test ADD season_test VARCHAR(20) null
+
+with date as
+(
+select to_date(substring(match_date,1,10),'yyyy-mm-dd') m_date,
+match_date
+from matches_old_test
+),
+yearandmes as
+(
+select match_date,
+date_part('year', m_date)-2000 god, date_part('month', m_date) mesyac
+from date
+)
+
+select match_date, to_date(substring(match_date,1,10),'yyyy-mm-dd') dt,
+case when mesyac>=8 then concat(god, '/', god+1) else concat (god-1, '/', god) end season
+from yearandmes
